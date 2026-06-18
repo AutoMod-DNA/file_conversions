@@ -1,0 +1,4500 @@
+{
+ "helices": {
+  "1": {
+   "position": {
+    "x": -7.885308256171725,
+    "y": -9.75509044944676,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.9999977424575455,
+    "bv": {
+     "xy": -0.00015027881202221092,
+     "xz": -0.0021195509173826325,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 0,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 0,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 0
+  },
+  "2": {
+   "position": {
+    "x": 7.997788884049075,
+    "y": -9.75509044944676,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.7056064440377465,
+    "bv": {
+     "xy": -0.00021297774989335782,
+     "xz": -0.7086039096511425,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 1,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 10.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 1,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 1
+  },
+  "3": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": -7.885308256171715,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.7070005102736763,
+    "bv": {
+     "xy": -0.7072066818263563,
+     "xz": -0.0029979414464439158,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 2,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 20.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 2,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 2
+  },
+  "4": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": 7.997788884049081,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.7070005102736763,
+    "bv": {
+     "xy": 0.0029979414464437375,
+     "xz": -0.7072066818263563,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 3,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 30.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 3,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 3
+  },
+  "5": {
+   "position": {
+    "x": 7.885308256171726,
+    "y": 9.755090449446774,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.002124871716755888,
+    "bv": {
+     "xy": 0.0707235507797542,
+     "xz": -0.9974936913511238,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 4,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 40.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 4,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 4
+  },
+  "6": {
+   "position": {
+    "x": 7.997788884049074,
+    "y": 7.885308256171735,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.7056064440377465,
+    "bv": {
+     "xy": 0.7086039096511425,
+     "xz": -0.00021297774989331817,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 5,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 50.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 5,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 5
+  },
+  "7": {
+   "position": {
+    "x": 7.885308256171724,
+    "y": -7.997788884049065,
+    "z": -9.75509044944677
+   },
+   "orientation": {
+    "s": 0.0021248717167559497,
+    "bv": {
+     "xy": -0.9974936913511198,
+     "xz": -0.07072355077980892,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 6,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 60.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 6,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 6
+  },
+  "8": {
+   "position": {
+    "x": -7.997788884049075,
+    "y": -7.885308256171715,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.7086039416574017,
+    "bv": {
+     "xy": -0.7056064121668785,
+     "xz": -0.0002120768230697226,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 7,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 70.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 7,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 7
+  },
+  "9": {
+   "position": {
+    "x": -7.885308256171724,
+    "y": 7.997788884049081,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.9999977424575455,
+    "bv": {
+     "xy": 0.0021195509173825063,
+     "xz": -0.00015027881202218295,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 8,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 80.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 8,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 8
+  },
+  "10": {
+   "position": {
+    "x": -7.997788884049074,
+    "y": 9.755090449446774,
+    "z": -7.885308256171724
+   },
+   "orientation": {
+    "s": 0.7086039416574017,
+    "bv": {
+     "xy": 0.00021207682306960415,
+     "xz": -0.7056064121668785,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 9,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 90.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 9,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 9
+  },
+  "11": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": 7.885308256171735,
+    "z": -7.997788884049077
+   },
+   "orientation": {
+    "s": 0.707213036130388,
+    "bv": {
+     "xy": 0.706994157879188,
+     "xz": -0.0029970405296880043,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 10,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 100.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 10,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 10
+  },
+  "12": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": -7.997788884049065,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.707213036130388,
+    "bv": {
+     "xy": -0.0029970405296878655,
+     "xz": -0.706994157879188,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 11,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 110.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 11,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 11
+  },
+  "13": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": -7.885308256171715,
+    "z": 7.997788884049073
+   },
+   "orientation": {
+    "s": 0.707213036130388,
+    "bv": {
+     "xy": -0.706994157879188,
+     "xz": 0.0029970405296879258,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 12,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 120.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 12,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 12
+  },
+  "14": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": 7.997788884049081,
+    "z": 7.885308256171723
+   },
+   "orientation": {
+    "s": 0.707213036130388,
+    "bv": {
+     "xy": 0.0029970405296877865,
+     "xz": 0.706994157879188,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 13,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 130.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 13,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 13
+  },
+  "15": {
+   "position": {
+    "x": -7.885308256171726,
+    "y": 9.755090449446774,
+    "z": 7.997788884049074
+   },
+   "orientation": {
+    "s": 0.9999977424575455,
+    "bv": {
+     "xy": 0.000150278812022099,
+     "xz": 0.002119550917382618,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 14,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 140.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 14,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 14
+  },
+  "16": {
+   "position": {
+    "x": 7.997788884049074,
+    "y": 9.755090449446774,
+    "z": 7.885308256171724
+   },
+   "orientation": {
+    "s": 0.7056064440377465,
+    "bv": {
+     "xy": 0.0002129777498931992,
+     "xz": 0.7086039096511425,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 15,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 150.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 15,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 15
+  },
+  "17": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": 7.885308256171735,
+    "z": 7.997788884049073
+   },
+   "orientation": {
+    "s": 0.7070005102736763,
+    "bv": {
+     "xy": 0.7072066818263563,
+     "xz": 0.002997941446443876,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 16,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 160.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 16,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 16
+  },
+  "18": {
+   "position": {
+    "x": 7.885308256171725,
+    "y": 7.997788884049081,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.002124871716756005,
+    "bv": {
+     "xy": 0.9974936913511195,
+     "xz": 0.07072355077981077,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 17,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 170.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 17,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 17
+  },
+  "19": {
+   "position": {
+    "x": -7.997788884049075,
+    "y": 7.885308256171735,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.7086039416574017,
+    "bv": {
+     "xy": 0.7056064121668785,
+     "xz": 0.00021207682306976204,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 18,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 180.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 18,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 18
+  },
+  "20": {
+   "position": {
+    "x": -7.885308256171725,
+    "y": -7.997788884049065,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.9999977424575455,
+    "bv": {
+     "xy": -0.0021195509173825766,
+     "xz": 0.00015027881202221092,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 19,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 190.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 19,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 19
+  },
+  "21": {
+   "position": {
+    "x": 7.997788884049076,
+    "y": -7.885308256171715,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.7056064440377465,
+    "bv": {
+     "xy": -0.7086039096511425,
+     "xz": 0.00021297774989335785,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 20,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 200.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 20,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 20
+  },
+  "22": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": -7.997788884049065,
+    "z": 7.885308256171723
+   },
+   "orientation": {
+    "s": 0.7070005102736763,
+    "bv": {
+     "xy": -0.0029979414464438164,
+     "xz": 0.7072066818263563,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 21,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 210.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 21,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 21
+  },
+  "23": {
+   "position": {
+    "x": 7.885308256171725,
+    "y": -9.75509044944676,
+    "z": 7.997788884049072
+   },
+   "orientation": {
+    "s": 0.0021248717167559215,
+    "bv": {
+     "xy": -0.07072355077980798,
+     "xz": 0.9974936913511198,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 22,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 220.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 22,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 22
+  },
+  "24": {
+   "position": {
+    "x": -7.997788884049074,
+    "y": -9.75509044944676,
+    "z": 7.885308256171724
+   },
+   "orientation": {
+    "s": 0.7086039416574017,
+    "bv": {
+     "xy": -0.00021207682306976198,
+     "xz": 0.7056064121668785,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 23,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 230.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 23,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 23
+  }
+ },
+ "strands": {
+  "0": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 24,
+      "start": 0,
+      "sequence": "TGATAGACGGTTTTTCGCCCTTTGACGTTGGAGTCCACGT",
+      "end": 40,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 23,
+      "start": 0,
+      "sequence": "TCTTTAATAGTGGACTCTTGTTCCAAACTGGAACAACACTCAACCC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 24,
+      "sequence": "TATCTCGGGCTATTCTTTTGAT",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 22,
+      "start": 0,
+      "sequence": "TTATAAGGGATTTTGCCGATTTCGG",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 24,
+      "sequence": "AACCACCATCAAACAGGATTTT",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 21,
+      "start": 0,
+      "sequence": "CGCCTGCTGGGGCAAACCAGCGTGG",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 20,
+      "start": 0,
+      "sequence": "ACCGCTTGCTGCAACTCTCTCAGGGCCAGGCGGTGAAGGGCAATCA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 19,
+      "start": 0,
+      "sequence": "GCTGTTGCCCGTCTCACTGGTGAAAAGAAAAACCACCCTGGCGCCC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 0,
+      "sequence": "AATACGCAAACCGCCTCTCCCCGCGCGTTGGCCGATTCATTAATGC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 21,
+      "start": 25,
+      "sequence": "AGCTGGCACGACAGGTTTCCC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 0,
+      "sequence": "GACTGGAAAGCGGGCAGTGAGCGC",
+      "end": 24,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 24,
+      "sequence": "AACGCAATTAATGTGAGTTAGC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 0,
+      "sequence": "TCACTCATTAGGCACCCCAGGCTTT",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 0,
+      "sequence": "ACACTTTATGCTTCCGGCTCGTATGTTGTGTGGAATTGTGAGCGGA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 24,
+      "sequence": "TAACAATTTCACACAGGAAACA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 0,
+      "sequence": "GCTATGACCATGATTACGAATTCGA",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 0,
+      "sequence": "GCTCGGTACCCGGGGATCCTCTAGAGTCGACCTGCAGGCATGCAAG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 0,
+      "sequence": "CTTGGCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCT",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 0,
+      "sequence": "GGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 25,
+      "sequence": "GCTGGCGTAATAGCGAAGAGG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 0,
+      "sequence": "CCCGCACCGATCGCCCTTCCCAAC",
+      "end": 24,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 24,
+      "sequence": "AGTTGCGCAGCCTGAATGGCGA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 0,
+      "sequence": "ATGGCGCTTTGCCTGGTTTCCGGCA",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 0,
+      "sequence": "CCAGAAGCGGTGCCGGAAAGCTGGCTGGAGTGCGATCTTCCTGAGG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 0,
+      "sequence": "CCGATACTGTCGTCGTCCCCTCAAACTGGCAGATGCACGGTTACGA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 0,
+      "sequence": "TGCGCCCATCTACACCAACGTGACCTATCCCATTACGGTCAATCCG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 25,
+      "sequence": "CCGTTTGTTCCCACGGAGAAT",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 0,
+      "sequence": "CCGACGGGTTGTTACTCGCTCACA",
+      "end": 24,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 25,
+      "sequence": "TTTAATGTTGATGAAAGCTGG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 0,
+      "sequence": "CTACAGGAAGGCCAGACGCGAATT",
+      "end": 24,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 0,
+      "sequence": "ATTTTTGATGGCGTTCCTATTGGTTAAAAAATGAGCTGATTTAACA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 22,
+      "start": 25,
+      "sequence": "AAAATTTAATGCGAATTTTAA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 0,
+      "sequence": "CAAAATATTAACGTTTACAATTTA",
+      "end": 24,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 0,
+      "sequence": "AATATTTGCTTATACAATCTTCCTGTTTTTGGGGCTTTTCTGATTA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 24,
+      "start": 40,
+      "sequence": "TCAACC",
+      "end": 46,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 0
+    },
+    {
+     "IdentifiedXover": 1
+    },
+    {
+     "IdentifiedXover": 2
+    },
+    {
+     "IdentifiedXover": 3
+    },
+    {
+     "IdentifiedXover": 4
+    },
+    {
+     "IdentifiedXover": 5
+    },
+    {
+     "IdentifiedXover": 6
+    },
+    {
+     "IdentifiedXover": 7
+    },
+    {
+     "IdentifiedXover": 8
+    },
+    {
+     "IdentifiedXover": 9
+    },
+    {
+     "IdentifiedXover": 10
+    },
+    {
+     "IdentifiedXover": 11
+    },
+    {
+     "IdentifiedXover": 12
+    },
+    {
+     "IdentifiedXover": 13
+    },
+    {
+     "IdentifiedXover": 14
+    },
+    {
+     "IdentifiedXover": 15
+    },
+    {
+     "IdentifiedXover": 16
+    },
+    {
+     "IdentifiedXover": 17
+    },
+    {
+     "IdentifiedXover": 18
+    },
+    {
+     "IdentifiedXover": 19
+    },
+    {
+     "IdentifiedXover": 20
+    },
+    {
+     "IdentifiedXover": 21
+    },
+    {
+     "IdentifiedXover": 22
+    },
+    {
+     "IdentifiedXover": 23
+    },
+    {
+     "IdentifiedXover": 24
+    },
+    {
+     "IdentifiedXover": 25
+    },
+    {
+     "IdentifiedXover": 26
+    },
+    {
+     "IdentifiedXover": 27
+    },
+    {
+     "IdentifiedXover": 28
+    },
+    {
+     "IdentifiedXover": 29
+    },
+    {
+     "IdentifiedXover": 30
+    },
+    {
+     "IdentifiedXover": 31
+    },
+    {
+     "IdentifiedXover": 32
+    },
+    {
+     "IdentifiedXover": 33
+    },
+    {
+     "IdentifiedXover": 34
+    },
+    "Prime3"
+   ]
+  },
+  "1": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 23,
+      "start": 36,
+      "sequence": "CTATTAAAGA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 24,
+      "start": 0,
+      "sequence": "TTTTTGACTCCAACGT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 36,
+      "sequence": "CAGTGCCAAG",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 0,
+      "sequence": "TTTTTATGCCTGCAGG",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 19,
+      "start": 36,
+      "sequence": "GGGCAACAGC",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 20,
+      "start": 0,
+      "sequence": "TTTTTGCCCTTCACCG",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 35
+    },
+    {
+     "IdentifiedXover": 36
+    },
+    {
+     "IdentifiedXover": 37
+    },
+    {
+     "IdentifiedXover": 38
+    },
+    {
+     "IdentifiedXover": 39
+    },
+    {
+     "IdentifiedXover": 40
+    },
+    "Prime3"
+   ]
+  },
+  "2": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 26,
+      "sequence": "AAACGACGGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 24,
+      "start": 16,
+      "sequence": "CAAAGGGCGAAAAACCGTCT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 16,
+      "sequence": "CGACGTTGTA",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 41
+    },
+    {
+     "IdentifiedXover": 42
+    },
+    {
+     "IdentifiedXover": 43
+    },
+    "Prime3"
+   ]
+  },
+  "3": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 24,
+      "start": 36,
+      "sequence": "ATCAGGTTGA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 0,
+      "sequence": "TTTTTAGAAAAGCCCC",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 36,
+      "sequence": "ACAGTATCGG",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 0,
+      "sequence": "TTTTTGGAAGATCGCA",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 36,
+      "sequence": "GGGTAACGCC",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 0,
+      "sequence": "TTTTTTTTCCCAGTCA",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 44
+    },
+    {
+     "IdentifiedXover": 45
+    },
+    {
+     "IdentifiedXover": 46
+    },
+    {
+     "IdentifiedXover": 47
+    },
+    {
+     "IdentifiedXover": 48
+    },
+    {
+     "IdentifiedXover": 49
+    },
+    "Prime3"
+   ]
+  },
+  "4": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 36,
+      "sequence": "GCCCGAGATA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 23,
+      "start": 0,
+      "sequence": "TTTTTGAGTGTTGTTC",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 20,
+      "start": 36,
+      "sequence": "AGCAAGCGGT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 21,
+      "start": 0,
+      "sequence": "TTTTTCTGGTTTGCCC",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 36,
+      "sequence": "GATGGTGGTT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 22,
+      "start": 0,
+      "sequence": "TTTTTATCGGCAAAAT",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 50
+    },
+    {
+     "IdentifiedXover": 51
+    },
+    {
+     "IdentifiedXover": 52
+    },
+    {
+     "IdentifiedXover": 53
+    },
+    {
+     "IdentifiedXover": 54
+    },
+    {
+     "IdentifiedXover": 55
+    },
+    "Prime3"
+   ]
+  },
+  "5": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 20,
+      "start": 26,
+      "sequence": "AGAGAGTTGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 23,
+      "start": 16,
+      "sequence": "CAGTTTGGAACAAGAGTCCA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 20,
+      "start": 16,
+      "sequence": "CCTGGCCCTG",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 56
+    },
+    {
+     "IdentifiedXover": 57
+    },
+    {
+     "IdentifiedXover": 58
+    },
+    "Prime3"
+   ]
+  },
+  "6": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 36,
+      "sequence": "AGCAAATATT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 0,
+      "sequence": "TTTTTTGTAAACGTTA",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 22,
+      "start": 36,
+      "sequence": "ATTAAATTTT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 0,
+      "sequence": "TTTTTAATCAGCTCAT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 36,
+      "sequence": "GATGGGCGCA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 0,
+      "sequence": "TTTTTACCGTGCATCT",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 59
+    },
+    {
+     "IdentifiedXover": 60
+    },
+    {
+     "IdentifiedXover": 61
+    },
+    {
+     "IdentifiedXover": 62
+    },
+    {
+     "IdentifiedXover": 63
+    },
+    {
+     "IdentifiedXover": 64
+    },
+    "Prime3"
+   ]
+  },
+  "7": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 30,
+      "sequence": "AGAATA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 22,
+      "start": 16,
+      "sequence": "CCCTTATAATTAAAATTCGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 16,
+      "sequence": "ATATTTTGATCAAA",
+      "end": 30,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 65
+    },
+    {
+     "IdentifiedXover": 66
+    },
+    {
+     "IdentifiedXover": 67
+    },
+    "Prime3"
+   ]
+  },
+  "8": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 36,
+      "sequence": "TAATTGCGTT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 0,
+      "sequence": "TTTTTCACTGCCCGCT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 21,
+      "start": 36,
+      "sequence": "CGTGCCAGCT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 0,
+      "sequence": "TTTTTAATGAATCGGC",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 36,
+      "sequence": "CATAAAGTGT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 0,
+      "sequence": "TTTTTCTGGGGTGCCT",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 68
+    },
+    {
+     "IdentifiedXover": 69
+    },
+    {
+     "IdentifiedXover": 70
+    },
+    {
+     "IdentifiedXover": 71
+    },
+    {
+     "IdentifiedXover": 72
+    },
+    {
+     "IdentifiedXover": 73
+    },
+    "Prime3"
+   ]
+  },
+  "9": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 30,
+      "sequence": "CTGTTT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 21,
+      "start": 16,
+      "sequence": "CAGCAGGCGGGGAAACCTGT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 16,
+      "sequence": "TTCCAGTCAAAATC",
+      "end": 30,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 74
+    },
+    {
+     "IdentifiedXover": 75
+    },
+    {
+     "IdentifiedXover": 76
+    },
+    "Prime3"
+   ]
+  },
+  "10": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 36,
+      "sequence": "TTTGCGTATT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 19,
+      "start": 0,
+      "sequence": "TTTTTCCAGGGTGGTT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 36,
+      "sequence": "GGTACCGAGC",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 0,
+      "sequence": "TTTTTTTCGTAATCAT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 36,
+      "sequence": "GAAATTGTTA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 0,
+      "sequence": "TTTTTTCACAATTCCA",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 77
+    },
+    {
+     "IdentifiedXover": 78
+    },
+    {
+     "IdentifiedXover": 79
+    },
+    {
+     "IdentifiedXover": 80
+    },
+    {
+     "IdentifiedXover": 81
+    },
+    {
+     "IdentifiedXover": 82
+    },
+    "Prime3"
+   ]
+  },
+  "11": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 26,
+      "sequence": "AGGATCCCCG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 19,
+      "start": 16,
+      "sequence": "TTTCTTTTCACCAGTGAGAC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 16,
+      "sequence": "TCGACTCTAG",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 83
+    },
+    {
+     "IdentifiedXover": 84
+    },
+    {
+     "IdentifiedXover": 85
+    },
+    "Prime3"
+   ]
+  },
+  "12": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 26,
+      "sequence": "GAGCCGGAAG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 16,
+      "sequence": "CAACGCGCGGGGAGAGGCGG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 16,
+      "sequence": "CACAACATAC",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 86
+    },
+    {
+     "IdentifiedXover": 87
+    },
+    {
+     "IdentifiedXover": 88
+    },
+    "Prime3"
+   ]
+  },
+  "13": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 36,
+      "sequence": "CATCAAAAAT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 0,
+      "sequence": "TTTTTGCGTCTGGCCT",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 36,
+      "sequence": "CAACATTAAA",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 0,
+      "sequence": "TTTTTGCGAGTAACAA",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 36,
+      "sequence": "GAACAAACGG",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 0,
+      "sequence": "TTTTTTGACCGTAATG",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 89
+    },
+    {
+     "IdentifiedXover": 90
+    },
+    {
+     "IdentifiedXover": 91
+    },
+    {
+     "IdentifiedXover": 92
+    },
+    {
+     "IdentifiedXover": 93
+    },
+    {
+     "IdentifiedXover": 94
+    },
+    "Prime3"
+   ]
+  },
+  "14": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 30,
+      "sequence": "TCACAT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 16,
+      "sequence": "AATGAGTGACCAGCTTTCAT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 16,
+      "sequence": "TCCTGTAGGCTAAC",
+      "end": 30,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 95
+    },
+    {
+     "IdentifiedXover": 96
+    },
+    {
+     "IdentifiedXover": 97
+    },
+    "Prime3"
+   ]
+  },
+  "15": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 36,
+      "sequence": "CTGCGCAACT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 0,
+      "sequence": "TTTTTGAAGGGCGATC",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 36,
+      "sequence": "TTACGCCAGC",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 0,
+      "sequence": "TTTTTAAAGGGGGATG",
+      "end": 16,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 36,
+      "sequence": "CCGCTTCTGG",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 0,
+      "sequence": "TTTTTGAAACCAGGCA",
+      "end": 16,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 98
+    },
+    {
+     "IdentifiedXover": 99
+    },
+    {
+     "IdentifiedXover": 100
+    },
+    {
+     "IdentifiedXover": 101
+    },
+    {
+     "IdentifiedXover": 102
+    },
+    {
+     "IdentifiedXover": 103
+    },
+    "Prime3"
+   ]
+  },
+  "16": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 30,
+      "sequence": "CTGTGT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 16,
+      "sequence": "GGTCATAGCCCTCTTCGCTA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 16,
+      "sequence": "GGTGCGGGTGTTTC",
+      "end": 30,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 104
+    },
+    {
+     "IdentifiedXover": 105
+    },
+    {
+     "IdentifiedXover": 106
+    },
+    "Prime3"
+   ]
+  },
+  "17": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 26,
+      "sequence": "CTTTCCGGCA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 16,
+      "sequence": "TGCTGCAAGGCGATTAAGTT",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 16,
+      "sequence": "CTCCAGCCAG",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 107
+    },
+    {
+     "IdentifiedXover": 108
+    },
+    {
+     "IdentifiedXover": 109
+    },
+    "Prime3"
+   ]
+  },
+  "18": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 30,
+      "sequence": "TTCAGG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 16,
+      "sequence": "AAGCGCCATATTCTCCGTGG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 16,
+      "sequence": "CCCGTCGGTCGCCA",
+      "end": 30,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 110
+    },
+    {
+     "IdentifiedXover": 111
+    },
+    {
+     "IdentifiedXover": 112
+    },
+    "Prime3"
+   ]
+  },
+  "19": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 26,
+      "sequence": "AGATTGTATA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 16,
+      "sequence": "GCCAGTTTGAGGGGACGACG",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 16,
+      "sequence": "AAAAACAGGA",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 113
+    },
+    {
+     "IdentifiedXover": 114
+    },
+    {
+     "IdentifiedXover": 115
+    },
+    "Prime3"
+   ]
+  },
+  "20": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 26,
+      "sequence": "ATAGGAACGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 16,
+      "sequence": "GGATAGGTCACGTTGGTGTA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 16,
+      "sequence": "TTTTTAACCA",
+      "end": 26,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 116
+    },
+    {
+     "IdentifiedXover": 117
+    },
+    {
+     "IdentifiedXover": 118
+    },
+    "Prime3"
+   ]
+  }
+ },
+ "dna_parameters": {
+  "rise": 0.332,
+  "helix_radius": 0.93,
+  "bases_per_turn": 10.44,
+  "groove_angle": 2.3722034,
+  "inter_helix_gap": 0.7900001,
+  "inclination": 0.043000013
+ },
+ "free_grids": {},
+ "ensnano_version": "0.7.2",
+ "saved_camera": {
+  "position": {
+   "x": 0.0,
+   "y": 0.0,
+   "z": 100.0
+  },
+  "orientation": {
+   "s": 1.0,
+   "bv": {
+    "xy": 0.0,
+    "xz": 0.0,
+    "yz": 0.0
+   }
+  },
+  "name": "Saved Camera",
+  "id": 0,
+  "pivot_position": {
+   "x": 0.0,
+   "y": 0.0,
+   "z": 0.0
+  }
+ },
+ "rainbow_scaffold": false,
+ "bezier_planes": {
+  "0": {
+   "position": {
+    "x": -7.885308256171725,
+    "y": -9.75509044944676,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.7072130370850247,
+    "bv": {
+     "xy": 0.7070005093187527,
+     "xz": -6.737093461885123e-21,
+     "yz": 0.0
+    }
+   }
+  },
+  "1": {
+   "position": {
+    "x": 7.997788884049075,
+    "y": -9.75509044944676,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.7316842592408237,
+    "bv": {
+     "xy": -0.6816437080903829,
+     "xz": 3.7044741594224135e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "2": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": -7.885308256171715,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.9999999887079871,
+    "bv": {
+     "xy": -0.00015027982472135115,
+     "xz": 5.2939559801187974e-21,
+     "yz": 0.0
+    }
+   }
+  },
+  "3": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": 7.997788884049081,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.035384013052784116,
+    "bv": {
+     "xy": -0.9993737897404956,
+     "xz": 1.532050888162598e-18,
+     "yz": 0.0
+    }
+   }
+  },
+  "4": {
+   "position": {
+    "x": 7.885308256171726,
+    "y": 9.755090449446774,
+    "z": -7.9977888840490765
+   },
+   "orientation": {
+    "s": 0.7070005093187527,
+    "bv": {
+     "xy": -0.7072130370850246,
+     "xz": 1.257968817411466e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "5": {
+   "position": {
+    "x": 7.997788884049074,
+    "y": 7.885308256171735,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.0021195509891723378,
+    "bv": {
+     "xy": -0.9999977537492792,
+     "xz": -4.44586687760436e-18,
+     "yz": 0.0
+    }
+   }
+  },
+  "6": {
+   "position": {
+    "x": 7.885308256171724,
+    "y": -7.997788884049065,
+    "z": -9.75509044944677
+   },
+   "orientation": {
+    "s": 0.708603941724953,
+    "bv": {
+     "xy": -0.7056064439699085,
+     "xz": -3.122863766909152e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "7": {
+   "position": {
+    "x": -7.997788884049075,
+    "y": -7.885308256171715,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.9999977537492794,
+    "bv": {
+     "xy": 0.002119550989183427,
+     "xz": -5.188088455680023e-21,
+     "yz": 0.0
+    }
+   }
+  },
+  "8": {
+   "position": {
+    "x": -7.885308256171724,
+    "y": 7.997788884049081,
+    "z": -9.755090449446769
+   },
+   "orientation": {
+    "s": 0.7056064439699086,
+    "bv": {
+     "xy": 0.7086039417249529,
+     "xz": -5.506984351881594e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "9": {
+   "position": {
+    "x": -7.997788884049074,
+    "y": 9.755090449446774,
+    "z": -7.885308256171724
+   },
+   "orientation": {
+    "s": 0.6816437080904019,
+    "bv": {
+     "xy": 0.731684259240806,
+     "xz": 3.976425512394351e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "10": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": 7.885308256171735,
+    "z": -7.997788884049077
+   },
+   "orientation": {
+    "s": 0.00015027982463362721,
+    "bv": {
+     "xy": 0.9999999887079871,
+     "xz": 3.5931869422648994e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "11": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": -7.997788884049065,
+    "z": -7.885308256171726
+   },
+   "orientation": {
+    "s": 0.9993737897404954,
+    "bv": {
+     "xy": 0.03538401305278999,
+     "xz": 5.424407682169834e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "12": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": -7.885308256171715,
+    "z": 7.997788884049073
+   },
+   "orientation": {
+    "s": 0.9999999887079871,
+    "bv": {
+     "xy": 0.00015027982472135115,
+     "xz": 1.1540824036658978e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "13": {
+   "position": {
+    "x": -9.755090449446769,
+    "y": 7.997788884049081,
+    "z": 7.885308256171723
+   },
+   "orientation": {
+    "s": 0.0353840130527841,
+    "bv": {
+     "xy": 0.9993737897404956,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "14": {
+   "position": {
+    "x": -7.885308256171726,
+    "y": 9.755090449446774,
+    "z": 7.997788884049074
+   },
+   "orientation": {
+    "s": 0.7070005093187527,
+    "bv": {
+     "xy": 0.7072130370850246,
+     "xz": 2.141542153450472e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "15": {
+   "position": {
+    "x": 7.997788884049074,
+    "y": 9.755090449446774,
+    "z": 7.885308256171724
+   },
+   "orientation": {
+    "s": 0.6816437080904019,
+    "bv": {
+     "xy": -0.731684259240806,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "16": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": 7.885308256171735,
+    "z": 7.997788884049073
+   },
+   "orientation": {
+    "s": 0.00015027982463362721,
+    "bv": {
+     "xy": -0.9999999887079871,
+     "xz": 7.7500110519439e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "17": {
+   "position": {
+    "x": 7.885308256171725,
+    "y": 7.997788884049081,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.7056064439699086,
+    "bv": {
+     "xy": -0.7086039417249529,
+     "xz": -5.506984351881594e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "18": {
+   "position": {
+    "x": -7.997788884049075,
+    "y": 7.885308256171735,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.002119550989172324,
+    "bv": {
+     "xy": 0.9999977537492792,
+     "xz": -2.4976780211260284e-18,
+     "yz": 0.0
+    }
+   }
+  },
+  "19": {
+   "position": {
+    "x": -7.885308256171725,
+    "y": -7.997788884049065,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.708603941724953,
+    "bv": {
+     "xy": 0.7056064439699085,
+     "xz": -2.5102445590465913e-20,
+     "yz": 0.0
+    }
+   }
+  },
+  "20": {
+   "position": {
+    "x": 7.997788884049076,
+    "y": -7.885308256171715,
+    "z": 9.755090449446767
+   },
+   "orientation": {
+    "s": 0.9999977537492794,
+    "bv": {
+     "xy": -0.0021195509891834548,
+     "xz": 3.176380687151034e-21,
+     "yz": 0.0
+    }
+   }
+  },
+  "21": {
+   "position": {
+    "x": 9.755090449446769,
+    "y": -7.997788884049065,
+    "z": 7.885308256171723
+   },
+   "orientation": {
+    "s": 0.9993737897404956,
+    "bv": {
+     "xy": -0.035384013052783436,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "22": {
+   "position": {
+    "x": 7.885308256171725,
+    "y": -9.75509044944676,
+    "z": 7.997788884049072
+   },
+   "orientation": {
+    "s": 0.7072130370850247,
+    "bv": {
+     "xy": -0.7070005093187527,
+     "xz": 2.2456978206283743e-21,
+     "yz": 0.0
+    }
+   }
+  },
+  "23": {
+   "position": {
+    "x": -7.997788884049074,
+    "y": -9.75509044944676,
+    "z": 7.885308256171724
+   },
+   "orientation": {
+    "s": 0.731684259240824,
+    "bv": {
+     "xy": 0.6816437080903824,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  }
+ },
+ "bezier_paths": {
+  "0": {
+   "vertices": [
+    {
+     "plane_id": 0,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.03364904569247207,
+      "y": -7.9377237517030785
+     },
+     "position_out": {
+      "x": 0.03364904569247207,
+      "y": 7.9377237517030785
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 0,
+     "position": {
+      "x": 0.06729809138494414,
+      "y": 15.875447503406157
+     },
+     "position_in": {
+      "x": 0.03364904569247207,
+      "y": 7.9377237517030785
+     },
+     "position_out": {
+      "x": 0.10094713707741619,
+      "y": 23.813171255109236
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "1": {
+   "vertices": [
+    {
+     "plane_id": 1,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -7.937723393171564,
+      "y": -0.033733516332062605
+     },
+     "position_out": {
+      "x": 7.937723393171564,
+      "y": 0.033733516332062605
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 1,
+     "position": {
+      "x": 15.875446786343128,
+      "y": 0.06746703266412521
+     },
+     "position_in": {
+      "x": 7.937723393171564,
+      "y": 0.033733516332062605
+     },
+     "position_out": {
+      "x": 23.813170179514692,
+      "y": 0.10120054899618781
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "2": {
+   "vertices": [
+    {
+     "plane_id": 2,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.03364904569247207,
+      "y": -7.937723751703078
+     },
+     "position_out": {
+      "x": 0.03364904569247207,
+      "y": 7.937723751703078
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 2,
+     "position": {
+      "x": 0.06729809138494414,
+      "y": 15.875447503406155
+     },
+     "position_in": {
+      "x": 0.03364904569247207,
+      "y": 7.937723751703078
+     },
+     "position_out": {
+      "x": 0.1009471370774162,
+      "y": 23.813171255109232
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "3": {
+   "vertices": [
+    {
+     "plane_id": 3,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -7.937723393171564,
+      "y": -0.03373351633206083
+     },
+     "position_out": {
+      "x": 7.937723393171564,
+      "y": 0.03373351633206083
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 3,
+     "position": {
+      "x": 15.875446786343128,
+      "y": 0.06746703266412166
+     },
+     "position_in": {
+      "x": 7.937723393171564,
+      "y": 0.03373351633206083
+     },
+     "position_out": {
+      "x": 23.813170179514692,
+      "y": 0.10120054899618249
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "4": {
+   "vertices": [
+    {
+     "plane_id": 4,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.03364904569247207,
+      "y": -7.937723751703079
+     },
+     "position_out": {
+      "x": 0.03364904569247207,
+      "y": 7.937723751703079
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 4,
+     "position": {
+      "x": 0.06729809138494414,
+      "y": 15.875447503406159
+     },
+     "position_in": {
+      "x": 0.03364904569247207,
+      "y": 7.937723751703079
+     },
+     "position_out": {
+      "x": 0.1009471370774162,
+      "y": 23.81317125510924
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "5": {
+   "vertices": [
+    {
+     "plane_id": 5,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.002385759441244417,
+      "y": -7.937794714199852
+     },
+     "position_out": {
+      "x": 0.002385759441244417,
+      "y": 7.937794714199852
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 5,
+     "position": {
+      "x": 0.004771518882488834,
+      "y": 15.875589428399705
+     },
+     "position_in": {
+      "x": 0.002385759441244417,
+      "y": 7.937794714199852
+     },
+     "position_out": {
+      "x": 0.0071572783237332524,
+      "y": 23.81338414259956
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "6": {
+   "vertices": [
+    {
+     "plane_id": 6,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.002385759441245306,
+      "y": -7.937794714199851
+     },
+     "position_out": {
+      "x": 0.002385759441245306,
+      "y": 7.937794714199851
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 6,
+     "position": {
+      "x": 0.004771518882490612,
+      "y": 15.875589428399701
+     },
+     "position_in": {
+      "x": 0.002385759441245306,
+      "y": 7.937794714199851
+     },
+     "position_out": {
+      "x": 0.007157278323735917,
+      "y": 23.81338414259955
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "7": {
+   "vertices": [
+    {
+     "plane_id": 7,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.0023857594412444168,
+      "y": -7.937794714199851
+     },
+     "position_out": {
+      "x": 0.0023857594412444168,
+      "y": 7.937794714199851
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 7,
+     "position": {
+      "x": 0.0047715188824888335,
+      "y": 15.875589428399701
+     },
+     "position_in": {
+      "x": 0.0023857594412444168,
+      "y": 7.937794714199851
+     },
+     "position_out": {
+      "x": 0.007157278323733251,
+      "y": 23.813384142599553
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "8": {
+   "vertices": [
+    {
+     "plane_id": 8,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.0023857594412444168,
+      "y": -7.937794714199851
+     },
+     "position_out": {
+      "x": 0.0023857594412444168,
+      "y": 7.937794714199851
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 8,
+     "position": {
+      "x": 0.0047715188824888335,
+      "y": 15.875589428399701
+     },
+     "position_in": {
+      "x": 0.0023857594412444168,
+      "y": 7.937794714199851
+     },
+     "position_out": {
+      "x": 0.00715727832373325,
+      "y": 23.81338414259955
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "9": {
+   "vertices": [
+    {
+     "plane_id": 9,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -7.937723393171563,
+      "y": -0.033733516332062036
+     },
+     "position_out": {
+      "x": 7.937723393171563,
+      "y": 0.033733516332062036
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 9,
+     "position": {
+      "x": 15.875446786343126,
+      "y": 0.06746703266412407
+     },
+     "position_in": {
+      "x": 7.937723393171563,
+      "y": 0.033733516332062036
+     },
+     "position_out": {
+      "x": 23.81317017951469,
+      "y": 0.10120054899618611
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "10": {
+   "vertices": [
+    {
+     "plane_id": 10,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -0.03364904569247251,
+      "y": -7.9377237517030785
+     },
+     "position_out": {
+      "x": 0.03364904569247251,
+      "y": 7.9377237517030785
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 10,
+     "position": {
+      "x": 0.06729809138494502,
+      "y": 15.875447503406157
+     },
+     "position_in": {
+      "x": 0.03364904569247251,
+      "y": 7.9377237517030785
+     },
+     "position_out": {
+      "x": 0.10094713707741754,
+      "y": 23.813171255109236
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "11": {
+   "vertices": [
+    {
+     "plane_id": 11,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -7.937723393171564,
+      "y": -0.03373351633206171
+     },
+     "position_out": {
+      "x": 7.937723393171564,
+      "y": 0.03373351633206171
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 11,
+     "position": {
+      "x": 15.875446786343128,
+      "y": 0.06746703266412342
+     },
+     "position_in": {
+      "x": 7.937723393171564,
+      "y": 0.03373351633206171
+     },
+     "position_out": {
+      "x": 23.813170179514692,
+      "y": 0.10120054899618514
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "12": {
+   "vertices": [
+    {
+     "plane_id": 12,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.03364904569247118,
+      "y": -7.937723751703078
+     },
+     "position_out": {
+      "x": -0.03364904569247118,
+      "y": 7.937723751703078
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 12,
+     "position": {
+      "x": -0.06729809138494236,
+      "y": 15.875447503406155
+     },
+     "position_in": {
+      "x": -0.03364904569247118,
+      "y": 7.937723751703078
+     },
+     "position_out": {
+      "x": -0.10094713707741354,
+      "y": 23.813171255109232
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "13": {
+   "vertices": [
+    {
+     "plane_id": 13,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 7.937723393171563,
+      "y": -0.03373351633206083
+     },
+     "position_out": {
+      "x": -7.937723393171563,
+      "y": 0.03373351633206083
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 13,
+     "position": {
+      "x": -15.875446786343126,
+      "y": 0.06746703266412166
+     },
+     "position_in": {
+      "x": -7.937723393171563,
+      "y": 0.03373351633206083
+     },
+     "position_out": {
+      "x": -23.81317017951469,
+      "y": 0.10120054899618249
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "14": {
+   "vertices": [
+    {
+     "plane_id": 14,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.033649045692471624,
+      "y": -7.937723751703079
+     },
+     "position_out": {
+      "x": -0.033649045692471624,
+      "y": 7.937723751703079
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 14,
+     "position": {
+      "x": -0.06729809138494325,
+      "y": 15.875447503406159
+     },
+     "position_in": {
+      "x": -0.033649045692471624,
+      "y": 7.937723751703079
+     },
+     "position_out": {
+      "x": -0.10094713707741487,
+      "y": 23.81317125510924
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "15": {
+   "vertices": [
+    {
+     "plane_id": 15,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 7.937723393171564,
+      "y": -0.033733516332062036
+     },
+     "position_out": {
+      "x": -7.937723393171564,
+      "y": 0.033733516332062036
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 15,
+     "position": {
+      "x": -15.875446786343128,
+      "y": 0.06746703266412407
+     },
+     "position_in": {
+      "x": -7.937723393171564,
+      "y": 0.033733516332062036
+     },
+     "position_out": {
+      "x": -23.813170179514692,
+      "y": 0.10120054899618611
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "16": {
+   "vertices": [
+    {
+     "plane_id": 16,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.03364904569247118,
+      "y": -7.9377237517030785
+     },
+     "position_out": {
+      "x": -0.03364904569247118,
+      "y": 7.9377237517030785
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 16,
+     "position": {
+      "x": -0.06729809138494236,
+      "y": 15.875447503406157
+     },
+     "position_in": {
+      "x": -0.03364904569247118,
+      "y": 7.9377237517030785
+     },
+     "position_out": {
+      "x": -0.10094713707741354,
+      "y": 23.813171255109236
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "17": {
+   "vertices": [
+    {
+     "plane_id": 17,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.002385759441245305,
+      "y": -7.9377947141998515
+     },
+     "position_out": {
+      "x": -0.002385759441245305,
+      "y": 7.9377947141998515
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 17,
+     "position": {
+      "x": -0.00477151888249061,
+      "y": 15.875589428399703
+     },
+     "position_in": {
+      "x": -0.002385759441245305,
+      "y": 7.9377947141998515
+     },
+     "position_out": {
+      "x": -0.007157278323735914,
+      "y": 23.813384142599553
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "18": {
+   "vertices": [
+    {
+     "plane_id": 18,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.0023857594412453054,
+      "y": -7.937794714199852
+     },
+     "position_out": {
+      "x": -0.0023857594412453054,
+      "y": 7.937794714199852
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 18,
+     "position": {
+      "x": -0.004771518882490611,
+      "y": 15.875589428399705
+     },
+     "position_in": {
+      "x": -0.0023857594412453054,
+      "y": 7.937794714199852
+     },
+     "position_out": {
+      "x": -0.007157278323735917,
+      "y": 23.81338414259956
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "19": {
+   "vertices": [
+    {
+     "plane_id": 19,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.002385759441245306,
+      "y": -7.9377947141998515
+     },
+     "position_out": {
+      "x": -0.002385759441245306,
+      "y": 7.9377947141998515
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 19,
+     "position": {
+      "x": -0.004771518882490612,
+      "y": 15.875589428399703
+     },
+     "position_in": {
+      "x": -0.002385759441245306,
+      "y": 7.9377947141998515
+     },
+     "position_out": {
+      "x": -0.007157278323735917,
+      "y": 23.813384142599553
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "20": {
+   "vertices": [
+    {
+     "plane_id": 20,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.002385759441245305,
+      "y": -7.937794714199851
+     },
+     "position_out": {
+      "x": -0.002385759441245305,
+      "y": 7.937794714199851
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 20,
+     "position": {
+      "x": -0.00477151888249061,
+      "y": 15.875589428399701
+     },
+     "position_in": {
+      "x": -0.002385759441245305,
+      "y": 7.937794714199851
+     },
+     "position_out": {
+      "x": -0.007157278323735915,
+      "y": 23.813384142599553
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "21": {
+   "vertices": [
+    {
+     "plane_id": 21,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 7.937723393171564,
+      "y": -0.03373351633206172
+     },
+     "position_out": {
+      "x": -7.937723393171564,
+      "y": 0.03373351633206172
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 21,
+     "position": {
+      "x": -15.875446786343128,
+      "y": 0.06746703266412345
+     },
+     "position_in": {
+      "x": -7.937723393171564,
+      "y": 0.03373351633206172
+     },
+     "position_out": {
+      "x": -23.813170179514692,
+      "y": 0.10120054899618518
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "22": {
+   "vertices": [
+    {
+     "plane_id": 22,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.033649045692470736,
+      "y": -7.9377237517030785
+     },
+     "position_out": {
+      "x": -0.033649045692470736,
+      "y": 7.9377237517030785
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 22,
+     "position": {
+      "x": -0.06729809138494147,
+      "y": 15.875447503406157
+     },
+     "position_in": {
+      "x": -0.033649045692470736,
+      "y": 7.9377237517030785
+     },
+     "position_out": {
+      "x": -0.1009471370774122,
+      "y": 23.813171255109236
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "23": {
+   "vertices": [
+    {
+     "plane_id": 23,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 7.937723393171565,
+      "y": -0.03373351633206216
+     },
+     "position_out": {
+      "x": -7.937723393171565,
+      "y": 0.03373351633206216
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 23,
+     "position": {
+      "x": -15.87544678634313,
+      "y": 0.06746703266412432
+     },
+     "position_in": {
+      "x": -7.937723393171565,
+      "y": 0.03373351633206216
+     },
+     "position_out": {
+      "x": -23.813170179514696,
+      "y": 0.1012005489961865
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  }
+ },
+ "external_3d_objects": {},
+ "clone_isometries": []
+}

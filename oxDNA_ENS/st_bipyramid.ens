@@ -1,0 +1,6168 @@
+{
+ "helices": {
+  "1": {
+   "position": {
+    "x": -1.1108595523940918,
+    "y": -1.3085777284742477,
+    "z": -40.602833885491265
+   },
+   "orientation": {
+    "s": 0.7052655150493612,
+    "bv": {
+     "xy": 0.5773067704836131,
+     "xz": -0.41148201180117233,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 0,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 0,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 0
+  },
+  "2": {
+   "position": {
+    "x": -35.44049873343171,
+    "y": 1.3066100867700357,
+    "z": 19.565148127214965
+   },
+   "orientation": {
+    "s": 0.8661592052934809,
+    "bv": {
+     "xy": 0.0008500548950393635,
+     "xz": 0.4997674544145915,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 1,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 10.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 1,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 1
+  },
+  "3": {
+   "position": {
+    "x": -34.66416634794951,
+    "y": -1.3066101120157008,
+    "z": 20.90981206019703
+   },
+   "orientation": {
+    "s": 0.9999996930102393,
+    "bv": {
+     "xy": -0.0007362833023650225,
+     "xz": 0.00026807895451964767,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 2,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 20.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 2,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 2
+  },
+  "4": {
+   "position": {
+    "x": -0.7763424549794978,
+    "y": -1.3066107296054987,
+    "z": -40.4749593525408
+   },
+   "orientation": {
+    "s": 0.5002325024601109,
+    "bv": {
+     "xy": -0.0014718906330537186,
+     "xz": -0.8658898758043425,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 3,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 30.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 3,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 3
+  },
+  "5": {
+   "position": {
+    "x": 35.44049873343171,
+    "y": -1.3066100867689414,
+    "z": 19.565148127214965
+   },
+   "orientation": {
+    "s": 0.4997681773436214,
+    "bv": {
+     "xy": -0.0014732488095912462,
+     "xz": 0.8661579523693006,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 4,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 40.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 4,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 4
+  },
+  "6": {
+   "position": {
+    "x": 34.66416634794951,
+    "y": 1.306610112016788,
+    "z": 20.909812060197027
+   },
+   "orientation": {
+    "s": 0.0007835683934280679,
+    "bv": {
+     "xy": 0.9396538738645874,
+     "xz": 0.34212568356065703,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 5,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 50.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 5,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 5
+  },
+  "7": {
+   "position": {
+    "x": 0.7763424549794959,
+    "y": 1.3066107296065752,
+    "z": -40.47495935254077
+   },
+   "orientation": {
+    "s": 0.8658911268066531,
+    "bv": {
+     "xy": 0.0008503234551384759,
+     "xz": -0.5002317797456758,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 6,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 60.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 6,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 6
+  },
+  "8": {
+   "position": {
+    "x": -0.9860425189945821,
+    "y": 1.1833393538497283,
+    "z": -40.254093884312525
+   },
+   "orientation": {
+    "s": 0.7059764121184027,
+    "bv": {
+     "xy": -0.5809965139198033,
+     "xz": -0.4050189580074778,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 7,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 70.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 7,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 7
+  },
+  "9": {
+   "position": {
+    "x": -34.368041208761476,
+    "y": 1.1833387346085757,
+    "z": 20.98098497585772
+   },
+   "orientation": {
+    "s": 0.865115359597385,
+    "bv": {
+     "xy": -0.4741215660397574,
+     "xz": 0.16365865453649348,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 8,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 80.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 8,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 8
+  },
+  "10": {
+   "position": {
+    "x": -35.354073771967585,
+    "y": -1.1833387079099573,
+    "z": 19.273109765550284
+   },
+   "orientation": {
+    "s": 0.8641916590714187,
+    "bv": {
+     "xy": 0.4746283695213783,
+     "xz": 0.16703498806198247,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 9,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 90.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 9,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 9
+  },
+  "11": {
+   "position": {
+    "x": 0.9860425189945797,
+    "y": -1.1833393538486305,
+    "z": -40.254093884312525
+   },
+   "orientation": {
+    "s": 0.7082353461473292,
+    "bv": {
+     "xy": 0.5791434112709163,
+     "xz": -0.403727140094717,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 10,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 100.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 10,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 10
+  },
+  "12": {
+   "position": {
+    "x": 34.368041208761476,
+    "y": -1.1833387346074815,
+    "z": 20.98098497585772
+   },
+   "orientation": {
+    "s": 0.5015729404470376,
+    "bv": {
+     "xy": 0.8177671002980892,
+     "xz": 0.2822792147526407,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 11,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 110.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 11,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 11
+  },
+  "13": {
+   "position": {
+    "x": 35.354073771967585,
+    "y": 1.183338707911041,
+    "z": 19.273109765550284
+   },
+   "orientation": {
+    "s": 0.5031627732567152,
+    "bv": {
+     "xy": -0.8151832764658294,
+     "xz": 0.28688577758237943,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 12,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 120.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 12,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 12
+  },
+  "14": {
+   "position": {
+    "x": 1.11085955239409,
+    "y": 1.308577728475278,
+    "z": -40.602833885491165
+   },
+   "orientation": {
+    "s": 0.7089432652068566,
+    "bv": {
+     "xy": -0.5743119045045293,
+     "xz": -0.4093473867782977,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 13,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 130.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 13,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 13
+  },
+  "15": {
+   "position": {
+    "x": -35.718500572098016,
+    "y": 1.3085754730324837,
+    "z": 19.33938528914147
+   },
+   "orientation": {
+    "s": 0.8660391095417058,
+    "bv": {
+     "xy": -0.4701341899564055,
+     "xz": 0.17014730141334447,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 14,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 140.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 14,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 14
+  },
+  "16": {
+   "position": {
+    "x": -34.607645932086754,
+    "y": -1.3085755715017555,
+    "z": 21.263450043444287
+   },
+   "orientation": {
+    "s": 0.8675392293961373,
+    "bv": {
+     "xy": 0.4693212449095973,
+     "xz": 0.16466102919410575,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 15,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 150.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 15,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 15
+  },
+  "17": {
+   "position": {
+    "x": 34.607645932086754,
+    "y": 1.3085755715028249,
+    "z": 21.263450043444283
+   },
+   "orientation": {
+    "s": 0.49736876204558367,
+    "bv": {
+     "xy": -0.8186171352490215,
+     "xz": 0.28721124702547596,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 16,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 160.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 16,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 16
+  },
+  "18": {
+   "position": {
+    "x": 35.71850057209802,
+    "y": -1.3085754730313965,
+    "z": 19.33938528914147
+   },
+   "orientation": {
+    "s": 0.49997626018063,
+    "bv": {
+     "xy": 0.8143478554118969,
+     "xz": 0.29472242812829014,
+     "yz": 0.0
+    }
+   },
+   "grid_position": {
+    "grid": {
+     "BezierPathGrid": {
+      "path_id": 17,
+      "vertex_id": 1
+     }
+    },
+    "x": 0,
+    "y": 0,
+    "axis_pos": 0,
+    "roll": 0.0
+   },
+   "isometry2d": {
+    "translation": {
+     "x": 0.0,
+     "y": 170.0
+    },
+    "rotation": {
+     "s": 1.0,
+     "bv": {
+      "xy": 0.0
+     }
+    }
+   },
+   "symmetry": {
+    "x": 1.0,
+    "y": 1.0
+   },
+   "roll": 0.0,
+   "curve": {
+    "TranslatedPath": {
+     "path_id": 17,
+     "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     }
+    }
+   },
+   "path_id": 17
+  }
+ },
+ "strands": {
+  "0": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 11,
+      "sequence": "GCGGGCTTTCATGATCTTGTTTATATCCCACTAAAAGCCGTAATGTGATGCTGCTCAGGGGAAGAGCAGGGGTCTCCGGTGGACTCCAACTGCTAATTCCAGAAGCAAGATTTTGAGAAACATATTTTCGTCCGGATGATCAGAATTCTCGGTCCATCCGATGTCGTCTAGG",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 92,
+      "sequence": "CTCTGCGGCGCTGTCGCGGATAGTCAGGGAGACCAATAATTTGGATTCTTTGCCCTATATTATCTGGAAGCCTCATGGCTGGGATGGCATGTTCG",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 95,
+      "sequence": "GGGGAGCTTACTCGTGAGATTGGATGCCGGGCCTCACTTAAAATACCAATAAAGCAACCGCGGTCGGGTCACACTTAAAAGAAAGAAC",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 92,
+      "sequence": "CACAGGCGCAAGCTTCCCAGCGGATCCTCGATGGTATTCACACCACTTCAGCTAAGTGGTGATTTGATAGGCTTTACCAATAGGCCGAAGGCGAT",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 95,
+      "sequence": "GTTGGTGGCTACCTGTACTTTTGTACACATGAAGATAGGGCGGGCACTGGCGCGTGTGCCTTTCGCGTTTGGTACCGAACGACGTGAA",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 5,
+      "sequence": "AAAGGGGATACCCTTGCACCATCGCATTAGTTATCTGAGGTCATGCGGCGTCTCCTGGGTCTAAATCACAATCTCCCATAGAGCCGGACCGCGTGTAGGCGGAGGCCACAGGTAACTCTGCACTTGATCATCGTCTACCTAACCCCTAGGAGCTGCGAATCTGGTATATGGGAGTGAGCTTTTACAG",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 0,
+      "sequence": "GAAGGATAAGCAAATTTAAGCTGACCTCTTGGAGCGAAGATGCGCAGCACCTTTGCCGATGAAGGCGCATGAAACGTTTAACAGCAGTGAAATCACCGCATACTATTGCAACACCGTGGGCTCTCCGGAGAAGTCGTATCGCATAACCTGGGGGCACAACGGAATAACAGTGCCAACCG",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 0,
+      "sequence": "GCGAGGCTTCCACCCAGTCATATAGGCCGAGTGAGGGGGTCCTCCTCGCACCTCTCCCGGTCTTGTTGGGGCCGGTGGGCTAGCGGGGCGTGTCA",
+      "end": 95,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 5,
+      "sequence": "AGGTTGCAACCGTCGGTCTAAGCCGATACTACCATAGATGGGGATCCGCGCCACAGTTATGATCGGGTGACCCCTGCGATTGCGCCCACAAC",
+      "end": 92,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 0,
+      "sequence": "GCGTGGCATTGTATCGCTCTCTAACTCTTTAGGAAGGAGGTGTGGGTAGTCACCCGGCCGGGGCGATCACTCTTTGGGATTAAACTGGGTA",
+      "end": 92,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 92,
+      "sequence": "ATAATCATCTGGTCACTGGGTAGGATCAGGTACTGAACCGCCCACCTCTTACCCTAAGCAACTACCAAATAGCTACAAGTTGGCGCCA",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 0,
+      "sequence": "CCTTAGGCTAAGTAGATTGGACGCCTAACAATCAGGTTAGTTTGTGTATGGAGCTCGCGTAGCCGCCGTAACATTTTGGCCACTCAAGCTGGAGG",
+      "end": 95,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 5,
+      "sequence": "CAGCCCAGGAAACCATATGTTGTAGCGTAGGAAGGTGCATCTTCAAATCCCCACTAGGCGCGGGGTCATTGTCATCTAACTAACGAGAGGGG",
+      "end": 92,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 0,
+      "sequence": "CTCTGAGGCTTCCCGGAGCTAGATTGGCCGCCGAAAGGCTCGCGCTCCCGGTCAATTCACTACAAACGGTAACCGCGGCAGAAAACGTGTAAAGGGAGGTGCCGTGTGATTACCACCTCCCACGAAATTTATACCGTAAGTCATATTGACGTAACAGGAAAGTGGAATGAGACGGGCGC",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 0,
+      "sequence": "CGTGCTCGAGGGCGTCGAATCCTTCCGTCGTCTGGTTTATCTTGAAGCCCATGGGCCTGAAAGAGGGCAACTTCATCTGCTCTTTTAAACTTCTACAGGCGTTTGGCCATCGCATGGAAAAACACTGCGAGTGATCCGCACTAACGGATGGCCATAACTACTCACTAAGACTCGCACTATAAC",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 92,
+      "sequence": "AAAGGACACGAATAAGAGACGCTGTGCACACTCAAAGACTTGAGCGTATTAACCAGATAAGGATATCCTTATTAAGCAGCTTACACCTCGTGAGT",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 95,
+      "sequence": "TAAATCCAACGGAGAACGCTCAAGCTATGATTCATTAGGTCCATGTGATAGATCGCCTGGAGGACGTGTATCAGGACCGGTCGAATAG",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 92,
+      "sequence": "AGACATAACGGACTCCAGGGAACATCATGTGATTTGCGCACAAATAGCGATTTCCTTGCGGATAGCTTCTACTATTCCTCCTACTTGAGGGTTCG",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 95,
+      "sequence": "AGCGCCCAGGGTACGGATCATCAAGGGCTCCCTATGTTCCCCCCGCGATTGAAAGGACAACTAAGCTGCAGCGATCGCGAATGGCGCG",
+      "end": 183,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 5,
+      "sequence": "CGCTCAGAAGAGGCCACGTACCAACCCAATCACGGCTGCTTTGTACGCACCTGTAAGTCCGCAGCAGACAAGTTACAAACTTGTGATCAATTTTGGATGGGTGGAGGCAAGTTAGACTATCCTCTAGCTTGTATTAAGATGGGATAGACTAGAGGGTCGTTATGCTAATAAGGGACTCGGTATGACA",
+      "end": 187,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 0,
+      "sequence": "AATGAATTTCACGACTCCTATGACTCCTCTTTCGAAAGTAGGTCCATGTATGAAGAATATAAGTCGTAGGTCTAGCTGGGCTATGGTGATTCCAGGTTAGGCTATAGCCCAACAGTGCGACGTGACCAGATCCCACTAATGTGTGAACGGGCTGTGACGCTGCAGCCTGGCGCTCTGGC",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 0,
+      "sequence": "TGTATGTAAGGTCTACGTTCGCCCACGCCCTGGACATCGACATCTTTCCTTATCCTCTTACGAGTATCCGTCTATTTATTCCGGGGTGCCTCTTC",
+      "end": 95,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 5,
+      "sequence": "CGTCATCCAATACAGGAGGAAGCGAAACCGCCGGACTGGTACAGATCAGGCCGTAGGCGGACCCAATGCGCCTCAACGCTGAATTCGTTGCG",
+      "end": 92,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 0,
+      "sequence": "CTCACATTTGATTGATCCCACAATGCCCGAGTGACTAAGATAAGGCGACTTAAGTCCGAATTTAGGTTTTTGTACCTGCACAGTTAGACAT",
+      "end": 92,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 92,
+      "sequence": "TTTAGTAGCTCTAGATGGCGTGACAGCGATCGTGTACTGCGCAGTACCATTCCGCATTCTGGGTTTCGCTAAGAATCATGTTTTTTTA",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 0,
+      "sequence": "GTTCTATGCGCTTAGTCAGGACGGCTGCGGTAGTTGTGGTAGAGGACCTCAGCTTCATGACGACATGAACTGCACACTCGTACTAACGCTGCCGA",
+      "end": 95,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 5,
+      "sequence": "GAGCATTGTTCCTACTAATCTTCTGATAGCAGACCGCTTCAGGTGTAGATGTTATAGCTCATTTTTTCCCTTACCTCGGAAGAGCTGTGCCG",
+      "end": 92,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 0,
+      "sequence": "CTTTATACGCGCCTAAGCTTCGGTTGTTTGTGACGCTAATCCTATACACGCCTCGATCGTAGATATGCGCTCTTGGAGTGAACGTTGGATTTCGTTCTATCGAACCTTATTGGATGTGGGGCGATGGGGTTAGAGATGGTCGTAATTGTAGGACCTATTTCCCCGACGAGGGTTAAGAA",
+      "end": 180,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 0,
+      "sequence": "CTGCTCTTAAG",
+      "end": 11,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 0
+    },
+    {
+     "IdentifiedXover": 1
+    },
+    {
+     "IdentifiedXover": 2
+    },
+    {
+     "IdentifiedXover": 3
+    },
+    {
+     "IdentifiedXover": 4
+    },
+    {
+     "IdentifiedXover": 5
+    },
+    {
+     "IdentifiedXover": 6
+    },
+    {
+     "IdentifiedXover": 7
+    },
+    {
+     "IdentifiedXover": 8
+    },
+    {
+     "IdentifiedXover": 9
+    },
+    {
+     "IdentifiedXover": 10
+    },
+    {
+     "IdentifiedXover": 11
+    },
+    {
+     "IdentifiedXover": 12
+    },
+    {
+     "IdentifiedXover": 13
+    },
+    {
+     "IdentifiedXover": 14
+    },
+    {
+     "IdentifiedXover": 15
+    },
+    {
+     "IdentifiedXover": 16
+    },
+    {
+     "IdentifiedXover": 17
+    },
+    {
+     "IdentifiedXover": 18
+    },
+    {
+     "IdentifiedXover": 19
+    },
+    {
+     "IdentifiedXover": 20
+    },
+    {
+     "IdentifiedXover": 21
+    },
+    {
+     "IdentifiedXover": 22
+    },
+    {
+     "IdentifiedXover": 23
+    },
+    {
+     "IdentifiedXover": 24
+    },
+    {
+     "IdentifiedXover": 25
+    },
+    {
+     "IdentifiedXover": 26
+    },
+    {
+     "IdentifiedXover": 27
+    },
+    {
+     "IdentifiedXover": 28
+    },
+    "Prime3"
+   ]
+  },
+  "1": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 172,
+      "sequence": "GACAGCGCCGTTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 172,
+      "sequence": "CCTAGACGACA",
+      "end": 183,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 172,
+      "sequence": "AAGGGTATCCTTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 172,
+      "sequence": "TTCACGTCGTT",
+      "end": 183,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 172,
+      "sequence": "AAGCTTGCGCTTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 172,
+      "sequence": "GTTCTTTCTTT",
+      "end": 183,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 29
+    },
+    {
+     "IdentifiedXover": 30
+    },
+    {
+     "IdentifiedXover": 31
+    },
+    {
+     "IdentifiedXover": 32
+    },
+    {
+     "IdentifiedXover": 33
+    },
+    {
+     "IdentifiedXover": 34
+    },
+    "Prime3"
+   ]
+  },
+  "2": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 162,
+      "sequence": "GCGATGGTGC",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 151,
+      "sequence": "TCGGATGGACCGAGAATTCTG",
+      "end": 172,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 151,
+      "sequence": "AGATAACTAAT",
+      "end": 162,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 35
+    },
+    {
+     "IdentifiedXover": 36
+    },
+    {
+     "IdentifiedXover": 37
+    },
+    "Prime3"
+   ]
+  },
+  "3": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 141,
+      "sequence": "GCATGACCTC",
+      "end": 151,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 130,
+      "sequence": "ATCATCCGGACGAAAATATGT",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 130,
+      "sequence": "CAGGAGACGCC",
+      "end": 141,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 38
+    },
+    {
+     "IdentifiedXover": 39
+    },
+    {
+     "IdentifiedXover": 40
+    },
+    "Prime3"
+   ]
+  },
+  "4": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 120,
+      "sequence": "GATTTAGACC",
+      "end": 130,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 109,
+      "sequence": "TTCTCAAAATCTTGCTTCTGG",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 109,
+      "sequence": "TGGGAGATTGT",
+      "end": 120,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 41
+    },
+    {
+     "IdentifiedXover": 42
+    },
+    {
+     "IdentifiedXover": 43
+    },
+    "Prime3"
+   ]
+  },
+  "5": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 99,
+      "sequence": "TCCGGCTCTA",
+      "end": 109,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 88,
+      "sequence": "AATTAGCAGTTGGAGTCCACC",
+      "end": 109,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 88,
+      "sequence": "CCTACACGCGG",
+      "end": 99,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 44
+    },
+    {
+     "IdentifiedXover": 45
+    },
+    {
+     "IdentifiedXover": 46
+    },
+    "Prime3"
+   ]
+  },
+  "6": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 78,
+      "sequence": "GTGGCCTCCG",
+      "end": 88,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 67,
+      "sequence": "GGAGACCCCTGCTCTTCCCCT",
+      "end": 88,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 67,
+      "sequence": "CAGAGTTACCT",
+      "end": 78,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 47
+    },
+    {
+     "IdentifiedXover": 48
+    },
+    {
+     "IdentifiedXover": 49
+    },
+    "Prime3"
+   ]
+  },
+  "7": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 57,
+      "sequence": "TGATCAAGTG",
+      "end": 67,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 46,
+      "sequence": "GAGCAGCATCACATTACGGCT",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 46,
+      "sequence": "TAGGTAGACGA",
+      "end": 57,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 50
+    },
+    {
+     "IdentifiedXover": 51
+    },
+    {
+     "IdentifiedXover": 52
+    },
+    "Prime3"
+   ]
+  },
+  "8": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 36,
+      "sequence": "TCCTAGGGGT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 25,
+      "sequence": "TTTAGTGGGATATAAACAAGA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 25,
+      "sequence": "AGATTCGCAGC",
+      "end": 36,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 53
+    },
+    {
+     "IdentifiedXover": 54
+    },
+    {
+     "IdentifiedXover": 55
+    },
+    "Prime3"
+   ]
+  },
+  "9": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 20,
+      "sequence": "ATACC",
+      "end": 25,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 15,
+      "sequence": "TCATGAAAGC",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 15,
+      "sequence": "CCCAT",
+      "end": 20,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 56
+    },
+    {
+     "IdentifiedXover": 57
+    },
+    {
+     "IdentifiedXover": 58
+    },
+    "Prime3"
+   ]
+  },
+  "10": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 8,
+      "start": 0,
+      "sequence": "CCGCCTTAAGTTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 169,
+      "sequence": "TTCTTAACCCT",
+      "end": 180,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 0,
+      "sequence": "TGAAATTCATT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 2,
+      "sequence": "TTTTA",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 1,
+      "sequence": "T",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 6,
+      "sequence": "ACCGAGTCC",
+      "end": 15,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 59
+    },
+    {
+     "IdentifiedXover": 60
+    },
+    {
+     "IdentifiedXover": 61
+    },
+    {
+     "IdentifiedXover": 62
+    },
+    {
+     "IdentifiedXover": 63
+    },
+    {
+     "IdentifiedXover": 64
+    },
+    "Prime3"
+   ]
+  },
+  "11": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 0,
+      "sequence": "ACGCCCTCGATTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 169,
+      "sequence": "GCGCCCGTCTC",
+      "end": 180,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 0,
+      "sequence": "GCTTATCCTTT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 2,
+      "sequence": "TTTTA",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 1,
+      "sequence": "A",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 14,
+      "start": 6,
+      "sequence": "AAGCTCACT",
+      "end": 15,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 65
+    },
+    {
+     "IdentifiedXover": 66
+    },
+    {
+     "IdentifiedXover": 67
+    },
+    {
+     "IdentifiedXover": 68
+    },
+    {
+     "IdentifiedXover": 69
+    },
+    {
+     "IdentifiedXover": 70
+    },
+    "Prime3"
+   ]
+  },
+  "12": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 0,
+      "sequence": "CGCGTATAAAT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 2,
+      "sequence": "TTTTA",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 1,
+      "sequence": "C",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 6,
+      "sequence": "AGCTCTTCC",
+      "end": 15,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 0,
+      "sequence": "CTAAGCGCATTTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 169,
+      "sequence": "TAAAAAAACAT",
+      "end": 180,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 71
+    },
+    {
+     "IdentifiedXover": 72
+    },
+    {
+     "IdentifiedXover": 73
+    },
+    {
+     "IdentifiedXover": 74
+    },
+    {
+     "IdentifiedXover": 75
+    },
+    {
+     "IdentifiedXover": 76
+    },
+    "Prime3"
+   ]
+  },
+  "13": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 0,
+      "sequence": "TCAAATGTGAT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 2,
+      "sequence": "TTTTA",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 1,
+      "sequence": "C",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 6,
+      "sequence": "GAATTCAGC",
+      "end": 15,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 0,
+      "sequence": "TAGACCTTACTTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 169,
+      "sequence": "GCCAGAGCGCC",
+      "end": 180,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 77
+    },
+    {
+     "IdentifiedXover": 78
+    },
+    {
+     "IdentifiedXover": 79
+    },
+    {
+     "IdentifiedXover": 80
+    },
+    {
+     "IdentifiedXover": 81
+    },
+    {
+     "IdentifiedXover": 82
+    },
+    "Prime3"
+   ]
+  },
+  "14": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 15,
+      "sequence": "GCCGTCCTGA",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 15,
+      "sequence": "GAGGTAAGGGAAAAAATGAGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 25,
+      "sequence": "CAACTACCGCA",
+      "end": 36,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 83
+    },
+    {
+     "IdentifiedXover": 84
+    },
+    {
+     "IdentifiedXover": 85
+    },
+    "Prime3"
+   ]
+  },
+  "15": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 36,
+      "sequence": "TCCTCTACCA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 36,
+      "sequence": "TATAACATCTACACCTGAAGC",
+      "end": 57,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 46,
+      "sequence": "TGAAGCTGAGG",
+      "end": 57,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 86
+    },
+    {
+     "IdentifiedXover": 87
+    },
+    {
+     "IdentifiedXover": 88
+    },
+    "Prime3"
+   ]
+  },
+  "16": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 57,
+      "sequence": "CATGTCGTCA",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 57,
+      "sequence": "GGTCTGCTATCAGAAGATTAG",
+      "end": 78,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 67,
+      "sequence": "AGTGTGCAGTT",
+      "end": 78,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 89
+    },
+    {
+     "IdentifiedXover": 90
+    },
+    {
+     "IdentifiedXover": 91
+    },
+    "Prime3"
+   ]
+  },
+  "17": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 78,
+      "sequence": "TTAGTACG",
+      "end": 86,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 78,
+      "sequence": "TAGGAACAATGCTCCGAACATGCCATCC",
+      "end": 106,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 92
+    },
+    {
+     "IdentifiedXover": 93
+    },
+    "Prime3"
+   ]
+  },
+  "18": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 106,
+      "sequence": "CAGCCATGAGGCTT",
+      "end": 120,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 86,
+      "sequence": "ATCCAATCTCACGAGTAAGCTCCCCTCGGCAGCG",
+      "end": 120,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 94
+    },
+    {
+     "IdentifiedXover": 95
+    },
+    "Prime3"
+   ]
+  },
+  "19": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 120,
+      "sequence": "GAGGCCCGGC",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 120,
+      "sequence": "CCAGATAATATAGGGCAAAGA",
+      "end": 141,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 130,
+      "sequence": "GTATTTTAAGT",
+      "end": 141,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 96
+    },
+    {
+     "IdentifiedXover": 97
+    },
+    {
+     "IdentifiedXover": 98
+    },
+    "Prime3"
+   ]
+  },
+  "20": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 141,
+      "sequence": "TGCTTTATTG",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 141,
+      "sequence": "ATCCAAATTATTGGTCTCCCT",
+      "end": 162,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 151,
+      "sequence": "CCGACCGCGGT",
+      "end": 162,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 99
+    },
+    {
+     "IdentifiedXover": 100
+    },
+    {
+     "IdentifiedXover": 101
+    },
+    "Prime3"
+   ]
+  },
+  "21": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 162,
+      "sequence": "GTGAC",
+      "end": 167,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 15,
+      "start": 162,
+      "sequence": "GACTATCCGC",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 9,
+      "start": 167,
+      "sequence": "TAAGT",
+      "end": 172,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 102
+    },
+    {
+     "IdentifiedXover": 103
+    },
+    {
+     "IdentifiedXover": 104
+    },
+    "Prime3"
+   ]
+  },
+  "22": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 0,
+      "sequence": "CAATGCCACGT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 2,
+      "sequence": "TTTTT",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 1,
+      "sequence": "G",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 6,
+      "sequence": "GGCGCAATC",
+      "end": 15,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 0,
+      "sequence": "GGGTGGAAGCTTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 169,
+      "sequence": "CGGTTGGCACT",
+      "end": 180,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 105
+    },
+    {
+     "IdentifiedXover": 106
+    },
+    {
+     "IdentifiedXover": 107
+    },
+    {
+     "IdentifiedXover": 108
+    },
+    {
+     "IdentifiedXover": 109
+    },
+    {
+     "IdentifiedXover": 110
+    },
+    "Prime3"
+   ]
+  },
+  "23": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 0,
+      "sequence": "AAGCCTCAGAT",
+      "end": 12,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 2,
+      "sequence": "TTTTT",
+      "end": 5,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 1,
+      "sequence": "C",
+      "end": 2,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 6,
+      "sequence": "TCGTTAGTT",
+      "end": 15,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 0,
+      "sequence": "CTACTTAGCCTTTTT",
+      "end": 15,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 169,
+      "sequence": "TGGCGCCAACT",
+      "end": 180,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 111
+    },
+    {
+     "IdentifiedXover": 112
+    },
+    {
+     "IdentifiedXover": 113
+    },
+    {
+     "IdentifiedXover": 114
+    },
+    {
+     "IdentifiedXover": 115
+    },
+    {
+     "IdentifiedXover": 116
+    },
+    "Prime3"
+   ]
+  },
+  "24": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 15,
+      "sequence": "CTATATGACT",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 15,
+      "sequence": "GCAGGGGTCACCCGATCATAA",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 25,
+      "sequence": "CCTCACTCGGC",
+      "end": 36,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 117
+    },
+    {
+     "IdentifiedXover": 118
+    },
+    {
+     "IdentifiedXover": 119
+    },
+    "Prime3"
+   ]
+  },
+  "25": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 36,
+      "sequence": "AGGAGGACCC",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 36,
+      "sequence": "CTGTGGCGCGGATCCCCATCT",
+      "end": 57,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 46,
+      "sequence": "GGAGAGGTGCG",
+      "end": 57,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 120
+    },
+    {
+     "IdentifiedXover": 121
+    },
+    {
+     "IdentifiedXover": 122
+    },
+    "Prime3"
+   ]
+  },
+  "26": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 57,
+      "sequence": "AACAAGACCG",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 57,
+      "sequence": "ATGGTAGTATCGGCTTAGACC",
+      "end": 78,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 67,
+      "sequence": "CCACCGGCCCC",
+      "end": 78,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 123
+    },
+    {
+     "IdentifiedXover": 124
+    },
+    {
+     "IdentifiedXover": 125
+    },
+    "Prime3"
+   ]
+  },
+  "27": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 78,
+      "sequence": "CCGCTAGC",
+      "end": 86,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 78,
+      "sequence": "GACGGTTGCAACCTATCGCCTTCGGCCT",
+      "end": 106,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 126
+    },
+    {
+     "IdentifiedXover": 127
+    },
+    "Prime3"
+   ]
+  },
+  "28": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 106,
+      "sequence": "ATTGGTAAAGCCTA",
+      "end": 120,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 86,
+      "sequence": "TACAAAAGTACAGGTAGCCACCAACTGACACGCC",
+      "end": 120,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 128
+    },
+    {
+     "IdentifiedXover": 129
+    },
+    "Prime3"
+   ]
+  },
+  "29": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 120,
+      "sequence": "TCTTCATGTG",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 120,
+      "sequence": "TCAAATCACCACTTAGCTGAA",
+      "end": 141,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 130,
+      "sequence": "TGCCCGCCCTA",
+      "end": 141,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 130
+    },
+    {
+     "IdentifiedXover": 131
+    },
+    {
+     "IdentifiedXover": 132
+    },
+    "Prime3"
+   ]
+  },
+  "30": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 141,
+      "sequence": "CACGCGCCAG",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 141,
+      "sequence": "GTGGTGTGAATACCATCGAGG",
+      "end": 162,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 151,
+      "sequence": "CGCGAAAGGCA",
+      "end": 162,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 133
+    },
+    {
+     "IdentifiedXover": 134
+    },
+    {
+     "IdentifiedXover": 135
+    },
+    "Prime3"
+   ]
+  },
+  "31": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 162,
+      "sequence": "CCAAA",
+      "end": 167,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 17,
+      "start": 162,
+      "sequence": "ATCCGCTGGG",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 13,
+      "start": 167,
+      "sequence": "CGGTA",
+      "end": 172,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 136
+    },
+    {
+     "IdentifiedXover": 137
+    },
+    {
+     "IdentifiedXover": 138
+    },
+    "Prime3"
+   ]
+  },
+  "32": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 12,
+      "sequence": "TAGCTCCGGG",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 148,
+      "sequence": "GTTATTCCGTTGTGCCCCCAG",
+      "end": 169,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 22,
+      "sequence": "GGCGGCCAATC",
+      "end": 33,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 139
+    },
+    {
+     "IdentifiedXover": 140
+    },
+    {
+     "IdentifiedXover": 141
+    },
+    "Prime3"
+   ]
+  },
+  "33": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 33,
+      "sequence": "CGAGCCTTTC",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 127,
+      "sequence": "GTTATGCGATACGACTTCTCC",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 43,
+      "sequence": "GACCGGGAGCG",
+      "end": 54,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 142
+    },
+    {
+     "IdentifiedXover": 143
+    },
+    {
+     "IdentifiedXover": 144
+    },
+    "Prime3"
+   ]
+  },
+  "34": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 54,
+      "sequence": "GTAGTGAATT",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 106,
+      "sequence": "GGAGAGCCCACGGTGTTGCAA",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 64,
+      "sequence": "GGTTACCGTTT",
+      "end": 75,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 145
+    },
+    {
+     "IdentifiedXover": 146
+    },
+    {
+     "IdentifiedXover": 147
+    },
+    "Prime3"
+   ]
+  },
+  "35": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 75,
+      "sequence": "TTTCTGCCGC",
+      "end": 85,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 85,
+      "sequence": "TAGTATGCGGTGATTTCACTG",
+      "end": 106,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 85,
+      "sequence": "CCTTTACACGT",
+      "end": 96,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 148
+    },
+    {
+     "IdentifiedXover": 149
+    },
+    {
+     "IdentifiedXover": 150
+    },
+    "Prime3"
+   ]
+  },
+  "36": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 96,
+      "sequence": "ACGGCACCTC",
+      "end": 106,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 64,
+      "sequence": "CTGTTAAACGTTTCATGCGCC",
+      "end": 85,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 106,
+      "sequence": "GTGGTAATCAC",
+      "end": 117,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 151
+    },
+    {
+     "IdentifiedXover": 152
+    },
+    {
+     "IdentifiedXover": 153
+    },
+    "Prime3"
+   ]
+  },
+  "37": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 117,
+      "sequence": "TTCGTGGGAG",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 43,
+      "sequence": "TTCATCGGCAAAGGTGCTGCG",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 127,
+      "sequence": "ACGGTATAAAT",
+      "end": 138,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 154
+    },
+    {
+     "IdentifiedXover": 155
+    },
+    {
+     "IdentifiedXover": 156
+    },
+    "Prime3"
+   ]
+  },
+  "38": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 138,
+      "sequence": "AATATGACTT",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 22,
+      "sequence": "CATCTTCGCTCCAAGAGGTCA",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 148,
+      "sequence": "CCTGTTACGTC",
+      "end": 159,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 157
+    },
+    {
+     "IdentifiedXover": 158
+    },
+    {
+     "IdentifiedXover": 159
+    },
+    "Prime3"
+   ]
+  },
+  "39": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 159,
+      "sequence": "ACTTT",
+      "end": 164,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 7,
+      "start": 12,
+      "sequence": "GCTTAAATTT",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 5,
+      "start": 164,
+      "sequence": "ATTCC",
+      "end": 169,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 160
+    },
+    {
+     "IdentifiedXover": 161
+    },
+    {
+     "IdentifiedXover": 162
+    },
+    "Prime3"
+   ]
+  },
+  "40": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 12,
+      "sequence": "GTGGGATCAA",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 148,
+      "sequence": "GATTCTTAGCGAAACCCAGAA",
+      "end": 169,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 22,
+      "sequence": "ACTCGGGCATT",
+      "end": 33,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 163
+    },
+    {
+     "IdentifiedXover": 164
+    },
+    {
+     "IdentifiedXover": 165
+    },
+    "Prime3"
+   ]
+  },
+  "41": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 33,
+      "sequence": "TATCTTAGTC",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 127,
+      "sequence": "TGCGGAATGGTACTGCGCAGT",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 43,
+      "sequence": "TTAAGTCGCCT",
+      "end": 54,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 166
+    },
+    {
+     "IdentifiedXover": 167
+    },
+    {
+     "IdentifiedXover": 168
+    },
+    "Prime3"
+   ]
+  },
+  "42": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 54,
+      "sequence": "AAATTCGGAC",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 106,
+      "sequence": "ACACGATCGCTGTCACGCCAT",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 64,
+      "sequence": "TACAAAAACCT",
+      "end": 75,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 169
+    },
+    {
+     "IdentifiedXover": 170
+    },
+    {
+     "IdentifiedXover": 171
+    },
+    "Prime3"
+   ]
+  },
+  "43": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 75,
+      "sequence": "TGTGCAGG",
+      "end": 83,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 78,
+      "sequence": "CTAGAGCTACTAAATACCCAGTTTAATC",
+      "end": 106,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 172
+    },
+    {
+     "IdentifiedXover": 173
+    },
+    "Prime3"
+   ]
+  },
+  "44": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 64,
+      "sequence": "CCAAAGAGTGATCG",
+      "end": 78,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 83,
+      "sequence": "TCCTACCCAGTGACCAGATGATTATATGTCTAAC",
+      "end": 117,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 174
+    },
+    {
+     "IdentifiedXover": 175
+    },
+    "Prime3"
+   ]
+  },
+  "45": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 117,
+      "sequence": "CAGTACCTGA",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 43,
+      "sequence": "CCCCGGCCGGGTGACTACCCA",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 127,
+      "sequence": "GGTGGGCGGTT",
+      "end": 138,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 176
+    },
+    {
+     "IdentifiedXover": 177
+    },
+    {
+     "IdentifiedXover": 178
+    },
+    "Prime3"
+   ]
+  },
+  "46": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 138,
+      "sequence": "TAGGGTAAGA",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 22,
+      "sequence": "CACCTCCTTCCTAAAGAGTTA",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 148,
+      "sequence": "TGGTAGTTGCT",
+      "end": 159,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 179
+    },
+    {
+     "IdentifiedXover": 180
+    },
+    {
+     "IdentifiedXover": 181
+    },
+    "Prime3"
+   ]
+  },
+  "47": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 159,
+      "sequence": "CTATT",
+      "end": 164,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 6,
+      "start": 12,
+      "sequence": "GAGAGCGATA",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 3,
+      "start": 164,
+      "sequence": "TGTAG",
+      "end": 169,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 182
+    },
+    {
+     "IdentifiedXover": 183
+    },
+    {
+     "IdentifiedXover": 184
+    },
+    "Prime3"
+   ]
+  },
+  "48": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 172,
+      "sequence": "GAGTCCGTTATTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 172,
+      "sequence": "CTATTCGACCG",
+      "end": 183,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 172,
+      "sequence": "TTATTCGTGTTTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 172,
+      "sequence": "GTTATAGTGCG",
+      "end": 183,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 172,
+      "sequence": "GGCCTCTTCTTTTTT",
+      "end": 187,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 172,
+      "sequence": "CGCGCCATTCG",
+      "end": 183,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 185
+    },
+    {
+     "IdentifiedXover": 186
+    },
+    {
+     "IdentifiedXover": 187
+    },
+    {
+     "IdentifiedXover": 188
+    },
+    {
+     "IdentifiedXover": 189
+    },
+    {
+     "IdentifiedXover": 190
+    },
+    "Prime3"
+   ]
+  },
+  "49": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 162,
+      "sequence": "ACAGCGTCTC",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 151,
+      "sequence": "GTCCTGATACACGTCCTCCAG",
+      "end": 172,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 151,
+      "sequence": "TTTGAGTGTGC",
+      "end": 162,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 191
+    },
+    {
+     "IdentifiedXover": 192
+    },
+    {
+     "IdentifiedXover": 193
+    },
+    "Prime3"
+   ]
+  },
+  "50": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 141,
+      "sequence": "CGCTCAAGTC",
+      "end": 151,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 130,
+      "sequence": "GCGATCTATCACATGGACCTA",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 130,
+      "sequence": "TCTGGTTAATA",
+      "end": 141,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 194
+    },
+    {
+     "IdentifiedXover": 195
+    },
+    {
+     "IdentifiedXover": 196
+    },
+    "Prime3"
+   ]
+  },
+  "51": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 120,
+      "sequence": "GATATCCTTA",
+      "end": 130,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 109,
+      "sequence": "ATGAATCATAGCTTGAGCGTT",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 109,
+      "sequence": "TGCTTAATAAG",
+      "end": 120,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 197
+    },
+    {
+     "IdentifiedXover": 198
+    },
+    {
+     "IdentifiedXover": 199
+    },
+    "Prime3"
+   ]
+  },
+  "52": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 101,
+      "sequence": "GTGTAAGC",
+      "end": 109,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 81,
+      "sequence": "CTCCGTTGGATTTACCTCCAGCTTGAGT",
+      "end": 109,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 200
+    },
+    {
+     "IdentifiedXover": 201
+    },
+    "Prime3"
+   ]
+  },
+  "53": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 67,
+      "sequence": "GGCCAAAATGTTAC",
+      "end": 81,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 67,
+      "sequence": "CTACAACATATGGTTTCCTGGGCTGACTCACGAG",
+      "end": 101,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 202
+    },
+    {
+     "IdentifiedXover": 203
+    },
+    "Prime3"
+   ]
+  },
+  "54": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 57,
+      "sequence": "CCTTCCTACG",
+      "end": 67,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 46,
+      "sequence": "GGCGGCTACGCGAGCTCCATA",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 46,
+      "sequence": "TTGAAGATGCA",
+      "end": 57,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 204
+    },
+    {
+     "IdentifiedXover": 205
+    },
+    {
+     "IdentifiedXover": 206
+    },
+    "Prime3"
+   ]
+  },
+  "55": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 36,
+      "sequence": "TAGTGGGGAT",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 25,
+      "sequence": "CACAAACTAACCTGATTGTTA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 25,
+      "sequence": "GACCCCGCGCC",
+      "end": 36,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 207
+    },
+    {
+     "IdentifiedXover": 208
+    },
+    {
+     "IdentifiedXover": 209
+    },
+    "Prime3"
+   ]
+  },
+  "56": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 20,
+      "sequence": "ACAAT",
+      "end": 25,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 12,
+      "start": 15,
+      "sequence": "GGCGTCCAAT",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 18,
+      "start": 15,
+      "sequence": "AGATG",
+      "end": 20,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 210
+    },
+    {
+     "IdentifiedXover": 211
+    },
+    {
+     "IdentifiedXover": 212
+    },
+    "Prime3"
+   ]
+  },
+  "57": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 162,
+      "sequence": "GTTGGTACGT",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 151,
+      "sequence": "AGTCTTAGTGAGTAGTTATGG",
+      "end": 172,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 151,
+      "sequence": "GCCGTGATTGG",
+      "end": 162,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 213
+    },
+    {
+     "IdentifiedXover": 214
+    },
+    {
+     "IdentifiedXover": 215
+    },
+    "Prime3"
+   ]
+  },
+  "58": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 141,
+      "sequence": "GTACAAAGCA",
+      "end": 151,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 130,
+      "sequence": "CCATCCGTTAGTGCGGATCAC",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 130,
+      "sequence": "CTTACAGGTGC",
+      "end": 141,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 216
+    },
+    {
+     "IdentifiedXover": 217
+    },
+    {
+     "IdentifiedXover": 218
+    },
+    "Prime3"
+   ]
+  },
+  "59": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 120,
+      "sequence": "CTGCTGCGGA",
+      "end": 130,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 109,
+      "sequence": "TCGCAGTGTTTTTCCATGCGA",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 109,
+      "sequence": "TTGTAACTTGT",
+      "end": 120,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 219
+    },
+    {
+     "IdentifiedXover": 220
+    },
+    {
+     "IdentifiedXover": 221
+    },
+    "Prime3"
+   ]
+  },
+  "60": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 99,
+      "sequence": "GATCACAAGT",
+      "end": 109,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 88,
+      "sequence": "TGGCCAAACGCCTGTAGAAGT",
+      "end": 109,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 88,
+      "sequence": "CATCCAAAATT",
+      "end": 99,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 222
+    },
+    {
+     "IdentifiedXover": 223
+    },
+    {
+     "IdentifiedXover": 224
+    },
+    "Prime3"
+   ]
+  },
+  "61": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 78,
+      "sequence": "TGCCTCCACC",
+      "end": 88,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 67,
+      "sequence": "TTAAAAGAGCAGATGAAGTTG",
+      "end": 88,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 67,
+      "sequence": "ATAGTCTAACT",
+      "end": 78,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 225
+    },
+    {
+     "IdentifiedXover": 226
+    },
+    {
+     "IdentifiedXover": 227
+    },
+    "Prime3"
+   ]
+  },
+  "62": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 57,
+      "sequence": "AAGCTAGAGG",
+      "end": 67,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 46,
+      "sequence": "CCCTCTTTCAGGCCCATGGGC",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 46,
+      "sequence": "CATCTTAATAC",
+      "end": 57,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 228
+    },
+    {
+     "IdentifiedXover": 229
+    },
+    {
+     "IdentifiedXover": 230
+    },
+    "Prime3"
+   ]
+  },
+  "63": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 36,
+      "sequence": "TAGTCTATCC",
+      "end": 46,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 25,
+      "sequence": "TTCAAGATAAACCAGACGACG",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 25,
+      "sequence": "TAACGACCCTC",
+      "end": 36,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 231
+    },
+    {
+     "IdentifiedXover": 232
+    },
+    {
+     "IdentifiedXover": 233
+    },
+    "Prime3"
+   ]
+  },
+  "64": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 20,
+      "sequence": "TAGCA",
+      "end": 25,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 11,
+      "start": 15,
+      "sequence": "GAAGGATTCG",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 1,
+      "start": 15,
+      "sequence": "CTTAT",
+      "end": 20,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 234
+    },
+    {
+     "IdentifiedXover": 235
+    },
+    {
+     "IdentifiedXover": 236
+    },
+    "Prime3"
+   ]
+  },
+  "65": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 15,
+      "sequence": "TGGGCGAACG",
+      "end": 25,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 15,
+      "sequence": "GTTGAGGCGCATTGGGTCCGC",
+      "end": 36,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 25,
+      "sequence": "TGTCCAGGGCG",
+      "end": 36,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 237
+    },
+    {
+     "IdentifiedXover": 238
+    },
+    {
+     "IdentifiedXover": 239
+    },
+    "Prime3"
+   ]
+  },
+  "66": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 36,
+      "sequence": "AAGATGTCGA",
+      "end": 46,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 36,
+      "sequence": "CTACGGCCTGATCTGTACCAG",
+      "end": 57,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 46,
+      "sequence": "GAGGATAAGGA",
+      "end": 57,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 240
+    },
+    {
+     "IdentifiedXover": 241
+    },
+    {
+     "IdentifiedXover": 242
+    },
+    "Prime3"
+   ]
+  },
+  "67": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 57,
+      "sequence": "ATACTCGTAA",
+      "end": 67,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 57,
+      "sequence": "TCCGGCGGTTTCGCTTCCTCC",
+      "end": 78,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 67,
+      "sequence": "TAAATAGACGG",
+      "end": 78,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 243
+    },
+    {
+     "IdentifiedXover": 244
+    },
+    {
+     "IdentifiedXover": 245
+    },
+    "Prime3"
+   ]
+  },
+  "68": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 78,
+      "sequence": "CCCCGGAA",
+      "end": 86,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 78,
+      "sequence": "TGTATTGGATGACGCGAACCCTCAAGTA",
+      "end": 106,
+      "forward": true
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 246
+    },
+    {
+     "IdentifiedXover": 247
+    },
+    "Prime3"
+   ]
+  },
+  "69": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 106,
+      "sequence": "GGAGGAATAGTAGA",
+      "end": 120,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 86,
+      "sequence": "CTTGATGATCCGTACCCTGGGCGCTGAAGAGGCA",
+      "end": 120,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 248
+    },
+    {
+     "IdentifiedXover": 249
+    },
+    "Prime3"
+   ]
+  },
+  "70": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 120,
+      "sequence": "ATAGGGAGCC",
+      "end": 130,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 120,
+      "sequence": "AGCTATCCGCAAGGAAATCGC",
+      "end": 141,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 130,
+      "sequence": "GCGGGGGGAAC",
+      "end": 141,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 250
+    },
+    {
+     "IdentifiedXover": 251
+    },
+    {
+     "IdentifiedXover": 252
+    },
+    "Prime3"
+   ]
+  },
+  "71": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 141,
+      "sequence": "CCTTTCAATC",
+      "end": 151,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 141,
+      "sequence": "TATTTGTGCGCAAATCACATG",
+      "end": 162,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 151,
+      "sequence": "AGCTTAGTTGT",
+      "end": 162,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 253
+    },
+    {
+     "IdentifiedXover": 254
+    },
+    {
+     "IdentifiedXover": 255
+    },
+    "Prime3"
+   ]
+  },
+  "72": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 162,
+      "sequence": "GCTGC",
+      "end": 167,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 16,
+      "start": 162,
+      "sequence": "ATGTTCCCTG",
+      "end": 172,
+      "forward": true
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 10,
+      "start": 167,
+      "sequence": "CGATC",
+      "end": 172,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 256
+    },
+    {
+     "IdentifiedXover": 257
+    },
+    {
+     "IdentifiedXover": 258
+    },
+    "Prime3"
+   ]
+  },
+  "73": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 12,
+      "sequence": "GAAGCTTAGG",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 148,
+      "sequence": "AGGCTGCAGCGTCACAGCCCG",
+      "end": 169,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 22,
+      "sequence": "CACAAACAACC",
+      "end": 33,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 259
+    },
+    {
+     "IdentifiedXover": 260
+    },
+    {
+     "IdentifiedXover": 261
+    },
+    "Prime3"
+   ]
+  },
+  "74": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 33,
+      "sequence": "GGATTAGCGT",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 127,
+      "sequence": "TTCACACATTAGTGGGATCTG",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 43,
+      "sequence": "AGGCGTGTATA",
+      "end": 54,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 262
+    },
+    {
+     "IdentifiedXover": 263
+    },
+    {
+     "IdentifiedXover": 264
+    },
+    "Prime3"
+   ]
+  },
+  "75": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 54,
+      "sequence": "TCTACGATCG",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 106,
+      "sequence": "GTCACGTCGCACTGTTGGGCT",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 64,
+      "sequence": "AAGAGCGCATA",
+      "end": 75,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 265
+    },
+    {
+     "IdentifiedXover": 266
+    },
+    {
+     "IdentifiedXover": 267
+    },
+    "Prime3"
+   ]
+  },
+  "76": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 75,
+      "sequence": "CGTTCACTCC",
+      "end": 85,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 85,
+      "sequence": "ATAGCCTAACCTGGAATCACC",
+      "end": 106,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 85,
+      "sequence": "ACGAAATCCAA",
+      "end": 96,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 268
+    },
+    {
+     "IdentifiedXover": 269
+    },
+    {
+     "IdentifiedXover": 270
+    },
+    "Prime3"
+   ]
+  },
+  "77": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 96,
+      "sequence": "GTTCGATAGA",
+      "end": 106,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 64,
+      "sequence": "ATAGCCCAGCTAGACCTACGA",
+      "end": 85,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 106,
+      "sequence": "CATCCAATAAG",
+      "end": 117,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 271
+    },
+    {
+     "IdentifiedXover": 272
+    },
+    {
+     "IdentifiedXover": 273
+    },
+    "Prime3"
+   ]
+  },
+  "78": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 117,
+      "sequence": "CATCGCCCCA",
+      "end": 127,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 43,
+      "sequence": "CTTATATTCTTCATACATGGA",
+      "end": 64,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 127,
+      "sequence": "ATCTCTAACCC",
+      "end": 138,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 274
+    },
+    {
+     "IdentifiedXover": 275
+    },
+    {
+     "IdentifiedXover": 276
+    },
+    "Prime3"
+   ]
+  },
+  "79": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 138,
+      "sequence": "AATTACGACC",
+      "end": 148,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 22,
+      "sequence": "CCTACTTTCGAAAGAGGAGTC",
+      "end": 43,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 148,
+      "sequence": "ATAGGTCCTAC",
+      "end": 159,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 277
+    },
+    {
+     "IdentifiedXover": 278
+    },
+    {
+     "IdentifiedXover": 279
+    },
+    "Prime3"
+   ]
+  },
+  "80": {
+   "domains": [
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 159,
+      "sequence": "GGGAA",
+      "end": 164,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 4,
+      "start": 12,
+      "sequence": "ATAGGAGTCG",
+      "end": 22,
+      "forward": false
+     }
+    },
+    {
+     "HelixDomain": {
+      "helix": 2,
+      "start": 164,
+      "sequence": "CGTCG",
+      "end": 169,
+      "forward": false
+     }
+    }
+   ],
+   "junctions": [
+    {
+     "IdentifiedXover": 280
+    },
+    {
+     "IdentifiedXover": 281
+    },
+    {
+     "IdentifiedXover": 282
+    },
+    "Prime3"
+   ]
+  }
+ },
+ "dna_parameters": {
+  "rise": 0.332,
+  "helix_radius": 0.93,
+  "bases_per_turn": 10.44,
+  "groove_angle": 2.3722034,
+  "inter_helix_gap": 0.7900001,
+  "inclination": 0.043000013
+ },
+ "free_grids": {},
+ "ensnano_version": "0.7.2",
+ "saved_camera": {
+  "position": {
+   "x": 0.0,
+   "y": 0.0,
+   "z": 100.0
+  },
+  "orientation": {
+   "s": 1.0,
+   "bv": {
+    "xy": 0.0,
+    "xz": 0.0,
+    "yz": 0.0
+   }
+  },
+  "name": "Saved Camera",
+  "id": 0,
+  "pivot_position": {
+   "x": 0.0,
+   "y": 0.0,
+   "z": 0.0
+  }
+ },
+ "rainbow_scaffold": false,
+ "bezier_planes": {
+  "0": {
+   "position": {
+    "x": -1.1108595523940918,
+    "y": -1.3085777284742477,
+    "z": -40.602833885491265
+   },
+   "orientation": {
+    "s": 0.003193521299798616,
+    "bv": {
+     "xy": -0.9999949006978525,
+     "xz": 1.3580021182939553e-16,
+     "yz": 0.0
+    }
+   }
+  },
+  "1": {
+   "position": {
+    "x": -35.44049873343171,
+    "y": 1.3066100867700357,
+    "z": 19.565148127214965
+   },
+   "orientation": {
+    "s": 0.7060657225353161,
+    "bv": {
+     "xy": 0.7081463093603482,
+     "xz": -3.0711083625257697e-19,
+     "yz": 0.0
+    }
+   }
+  },
+  "2": {
+   "position": {
+    "x": -34.66416634794951,
+    "y": -1.3066101120157008,
+    "z": 20.90981206019703
+   },
+   "orientation": {
+    "s": 0.7076272204926557,
+    "bv": {
+     "xy": 0.7065859585484547,
+     "xz": -1.0398976348236887e-19,
+     "yz": 0.0
+    }
+   }
+  },
+  "3": {
+   "position": {
+    "x": -0.7763424549794978,
+    "y": -1.3066107296054987,
+    "z": -40.4749593525408
+   },
+   "orientation": {
+    "s": 0.7081482470276194,
+    "bv": {
+     "xy": -0.7060637791529245,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "4": {
+   "position": {
+    "x": 35.44049873343171,
+    "y": -1.3066100867689414,
+    "z": 19.565148127214965
+   },
+   "orientation": {
+    "s": 0.7081463093603481,
+    "bv": {
+     "xy": -0.7060657225353162,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "5": {
+   "position": {
+    "x": 34.66416634794951,
+    "y": 1.306610112016788,
+    "z": 20.909812060197027
+   },
+   "orientation": {
+    "s": 0.7065859585484546,
+    "bv": {
+     "xy": -0.7076272204926556,
+     "xz": -1.0414300822490958e-19,
+     "yz": 0.0
+    }
+   }
+  },
+  "6": {
+   "position": {
+    "x": 0.7763424549794959,
+    "y": 1.3066107296065752,
+    "z": -40.47495935254077
+   },
+   "orientation": {
+    "s": 0.7060637791529246,
+    "bv": {
+     "xy": 0.7081482470276194,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "7": {
+   "position": {
+    "x": -0.9860425189945821,
+    "y": 1.1833393538497283,
+    "z": -40.254093884312525
+   },
+   "orientation": {
+    "s": 0.9999981043679529,
+    "bv": {
+     "xy": -0.0019471159443508106,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "8": {
+   "position": {
+    "x": -34.368041208761476,
+    "y": 1.1833387346085757,
+    "z": 20.98098497585772
+   },
+   "orientation": {
+    "s": 0.963158514557336,
+    "bv": {
+     "xy": 0.2689343336870659,
+     "xz": -7.204311438908183e-18,
+     "yz": 0.0
+    }
+   }
+  },
+  "9": {
+   "position": {
+    "x": -35.354073771967585,
+    "y": -1.1833387079099573,
+    "z": 19.273109765550284
+   },
+   "orientation": {
+    "s": 0.2675595520547161,
+    "bv": {
+     "xy": 0.9635413255819802,
+     "xz": 2.5934016747375255e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "10": {
+   "position": {
+    "x": 0.9860425189945797,
+    "y": -1.1833393538486305,
+    "z": -40.254093884312525
+   },
+   "orientation": {
+    "s": 0.0019471159443313893,
+    "bv": {
+     "xy": 0.999998104367953,
+     "xz": -1.6704739781384577e-16,
+     "yz": 0.0
+    }
+   }
+  },
+  "11": {
+   "position": {
+    "x": 34.368041208761476,
+    "y": -1.1833387346074815,
+    "z": 20.98098497585772
+   },
+   "orientation": {
+    "s": 0.2689343336870657,
+    "bv": {
+     "xy": -0.9631585145573359,
+     "xz": -2.5801443083802686e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "12": {
+   "position": {
+    "x": 35.354073771967585,
+    "y": 1.183338707911041,
+    "z": 19.273109765550284
+   },
+   "orientation": {
+    "s": 0.9635413255819804,
+    "bv": {
+     "xy": -0.2675595520547161,
+     "xz": -2.1604347586387522e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "13": {
+   "position": {
+    "x": 1.11085955239409,
+    "y": 1.308577728475278,
+    "z": -40.602833885491165
+   },
+   "orientation": {
+    "s": 0.9999949006978525,
+    "bv": {
+     "xy": 0.003193521299797611,
+     "xz": -2.168415402376327e-19,
+     "yz": 0.0
+    }
+   }
+  },
+  "14": {
+   "position": {
+    "x": -35.718500572098016,
+    "y": 1.3085754730324837,
+    "z": 19.33938528914147
+   },
+   "orientation": {
+    "s": 0.9623294126431978,
+    "bv": {
+     "xy": 0.27188619229706734,
+     "xz": -1.4421036731795202e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "15": {
+   "position": {
+    "x": -34.607645932086754,
+    "y": -1.3085755715017555,
+    "z": 21.263450043444287
+   },
+   "orientation": {
+    "s": 0.27411084235187966,
+    "bv": {
+     "xy": 0.9616981054910856,
+     "xz": -0.0,
+     "yz": 0.0
+    }
+   }
+  },
+  "16": {
+   "position": {
+    "x": 34.607645932086754,
+    "y": 1.3085755715028249,
+    "z": 21.263450043444283
+   },
+   "orientation": {
+    "s": 0.9616981054910856,
+    "bv": {
+     "xy": -0.27411084235187955,
+     "xz": 1.4430503427817244e-17,
+     "yz": 0.0
+    }
+   }
+  },
+  "17": {
+   "position": {
+    "x": 35.71850057209802,
+    "y": -1.3085754730313965,
+    "z": 19.33938528914147
+   },
+   "orientation": {
+    "s": 0.2718861922970673,
+    "bv": {
+     "xy": -0.9623294126431978,
+     "xz": -5.104263548864357e-17,
+     "yz": 0.0
+    }
+   }
+  }
+ },
+ "bezier_paths": {
+  "0": {
+   "vertices": [
+    {
+     "plane_id": 0,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -20.018999424900084,
+      "y": -28.087107848479356
+     },
+     "position_out": {
+      "x": 20.018999424900084,
+      "y": 28.087107848479356
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 0,
+     "position": {
+      "x": 40.03799884980017,
+      "y": 56.17421569695871
+     },
+     "position_in": {
+      "x": 20.018999424900084,
+      "y": 28.087107848479356
+     },
+     "position_out": {
+      "x": 60.05699827470025,
+      "y": 84.26132354543807
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "1": {
+   "vertices": [
+    {
+     "plane_id": 1,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 29.852744337948927,
+      "y": -17.25690433249266
+     },
+     "position_out": {
+      "x": -29.852744337948927,
+      "y": 17.25690433249266
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 1,
+     "position": {
+      "x": -59.705488675897854,
+      "y": 34.51380866498532
+     },
+     "position_in": {
+      "x": -29.852744337948927,
+      "y": 17.25690433249266
+     },
+     "position_out": {
+      "x": -89.55823301384677,
+      "y": 51.77071299747798
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "2": {
+   "vertices": [
+    {
+     "plane_id": 2,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.018487625747216196,
+      "y": -34.48168618566424
+     },
+     "position_out": {
+      "x": -0.018487625747216196,
+      "y": 34.48168618566424
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 2,
+     "position": {
+      "x": -0.03697525149443239,
+      "y": 68.96337237132848
+     },
+     "position_in": {
+      "x": -0.018487625747216196,
+      "y": 34.48168618566424
+     },
+     "position_out": {
+      "x": -0.05546287724164859,
+      "y": 103.44505855699272
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "3": {
+   "vertices": [
+    {
+     "plane_id": 3,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -29.871231855800207,
+      "y": -17.224882980105686
+     },
+     "position_out": {
+      "x": 29.871231855800207,
+      "y": 17.224882980105686
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 3,
+     "position": {
+      "x": 59.742463711600415,
+      "y": 34.44976596021137
+     },
+     "position_in": {
+      "x": 29.871231855800207,
+      "y": 17.224882980105686
+     },
+     "position_out": {
+      "x": 89.61369556740061,
+      "y": 51.674648940317056
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "4": {
+   "vertices": [
+    {
+     "plane_id": 4,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 29.852744337948927,
+      "y": -17.256904332492663
+     },
+     "position_out": {
+      "x": -29.852744337948927,
+      "y": 17.256904332492663
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 4,
+     "position": {
+      "x": -59.705488675897854,
+      "y": 34.513808664985326
+     },
+     "position_in": {
+      "x": -29.852744337948927,
+      "y": 17.256904332492663
+     },
+     "position_out": {
+      "x": -89.55823301384679,
+      "y": 51.77071299747799
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "5": {
+   "vertices": [
+    {
+     "plane_id": 5,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 0.018487625747214406,
+      "y": -34.48168618566423
+     },
+     "position_out": {
+      "x": -0.018487625747214406,
+      "y": 34.48168618566423
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 5,
+     "position": {
+      "x": -0.03697525149442881,
+      "y": 68.96337237132846
+     },
+     "position_in": {
+      "x": -0.018487625747214406,
+      "y": 34.48168618566423
+     },
+     "position_out": {
+      "x": -0.05546287724164322,
+      "y": 103.4450585569927
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "6": {
+   "vertices": [
+    {
+     "plane_id": 6,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -29.871231855800193,
+      "y": -17.224882980105683
+     },
+     "position_out": {
+      "x": 29.871231855800193,
+      "y": 17.224882980105683
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 6,
+     "position": {
+      "x": 59.74246371160039,
+      "y": 34.449765960211366
+     },
+     "position_in": {
+      "x": 29.871231855800193,
+      "y": 17.224882980105683
+     },
+     "position_out": {
+      "x": 89.61369556740058,
+      "y": 51.67464894031705
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "7": {
+   "vertices": [
+    {
+     "plane_id": 7,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -19.60289987200756,
+      "y": -28.12041911325323
+     },
+     "position_out": {
+      "x": 19.60289987200756,
+      "y": 28.12041911325323
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 7,
+     "position": {
+      "x": 39.20579974401512,
+      "y": 56.24083822650646
+     },
+     "position_in": {
+      "x": 19.60289987200756,
+      "y": 28.12041911325323
+     },
+     "position_out": {
+      "x": 58.80869961602268,
+      "y": 84.36125733975969
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "8": {
+   "vertices": [
+    {
+     "plane_id": 8,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.706614656070812,
+      "y": -32.87572577390503
+     },
+     "position_out": {
+      "x": -9.706614656070812,
+      "y": 32.87572577390503
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 8,
+     "position": {
+      "x": -19.413229312141624,
+      "y": 65.75145154781006
+     },
+     "position_in": {
+      "x": -9.706614656070812,
+      "y": 32.87572577390503
+     },
+     "position_out": {
+      "x": -29.119843968212432,
+      "y": 98.62717732171508
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "9": {
+   "vertices": [
+    {
+     "plane_id": 9,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.896286931923596,
+      "y": -32.81912623401844
+     },
+     "position_out": {
+      "x": -9.896286931923596,
+      "y": 32.81912623401844
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 9,
+     "position": {
+      "x": -19.792573863847192,
+      "y": 65.63825246803688
+     },
+     "position_in": {
+      "x": -9.896286931923596,
+      "y": 32.81912623401844
+     },
+     "position_out": {
+      "x": -29.68886079577079,
+      "y": 98.45737870205534
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "10": {
+   "vertices": [
+    {
+     "plane_id": 10,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -19.60289987200756,
+      "y": -28.120419113253234
+     },
+     "position_out": {
+      "x": 19.60289987200756,
+      "y": 28.120419113253234
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 10,
+     "position": {
+      "x": 39.20579974401512,
+      "y": 56.24083822650647
+     },
+     "position_in": {
+      "x": 19.60289987200756,
+      "y": 28.120419113253234
+     },
+     "position_out": {
+      "x": 58.80869961602267,
+      "y": 84.3612573397597
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "11": {
+   "vertices": [
+    {
+     "plane_id": 11,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.70661465607081,
+      "y": -32.87572577390503
+     },
+     "position_out": {
+      "x": -9.70661465607081,
+      "y": 32.87572577390503
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 11,
+     "position": {
+      "x": -19.41322931214162,
+      "y": 65.75145154781006
+     },
+     "position_in": {
+      "x": -9.70661465607081,
+      "y": 32.87572577390503
+     },
+     "position_out": {
+      "x": -29.11984396821243,
+      "y": 98.6271773217151
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "12": {
+   "vertices": [
+    {
+     "plane_id": 12,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.896286931923594,
+      "y": -32.81912623401844
+     },
+     "position_out": {
+      "x": -9.896286931923594,
+      "y": 32.81912623401844
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 12,
+     "position": {
+      "x": -19.79257386384719,
+      "y": 65.63825246803688
+     },
+     "position_in": {
+      "x": -9.896286931923594,
+      "y": 32.81912623401844
+     },
+     "position_out": {
+      "x": -29.68886079577078,
+      "y": 98.45737870205531
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "13": {
+   "vertices": [
+    {
+     "plane_id": 13,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": -20.018999424900034,
+      "y": -28.087107848479402
+     },
+     "position_out": {
+      "x": 20.018999424900034,
+      "y": 28.087107848479402
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 13,
+     "position": {
+      "x": 40.03799884980007,
+      "y": 56.174215696958804
+     },
+     "position_in": {
+      "x": 20.018999424900034,
+      "y": 28.087107848479402
+     },
+     "position_out": {
+      "x": 60.056998274700106,
+      "y": 84.2613235454382
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "14": {
+   "vertices": [
+    {
+     "plane_id": 14,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 10.164859889329536,
+      "y": -32.95938993965385
+     },
+     "position_out": {
+      "x": -10.164859889329536,
+      "y": 32.95938993965385
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 14,
+     "position": {
+      "x": -20.329719778659072,
+      "y": 65.9187798793077
+     },
+     "position_in": {
+      "x": -10.164859889329536,
+      "y": 32.95938993965385
+     },
+     "position_out": {
+      "x": -30.494579667988614,
+      "y": 98.87816981896157
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "15": {
+   "vertices": [
+    {
+     "plane_id": 15,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.854141547930077,
+      "y": -33.05361971017662
+     },
+     "position_out": {
+      "x": -9.854141547930077,
+      "y": 33.05361971017662
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 15,
+     "position": {
+      "x": -19.708283095860153,
+      "y": 66.10723942035324
+     },
+     "position_in": {
+      "x": -9.854141547930077,
+      "y": 33.05361971017662
+     },
+     "position_out": {
+      "x": -29.56242464379023,
+      "y": 99.16085913052986
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "16": {
+   "vertices": [
+    {
+     "plane_id": 16,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 9.854141547930073,
+      "y": -33.05361971017662
+     },
+     "position_out": {
+      "x": -9.854141547930073,
+      "y": 33.05361971017662
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 16,
+     "position": {
+      "x": -19.708283095860146,
+      "y": 66.10723942035324
+     },
+     "position_in": {
+      "x": -9.854141547930073,
+      "y": 33.05361971017662
+     },
+     "position_out": {
+      "x": -29.56242464379022,
+      "y": 99.16085913052986
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  },
+  "17": {
+   "vertices": [
+    {
+     "plane_id": 17,
+     "position": {
+      "x": 0.0,
+      "y": 0.0
+     },
+     "position_in": {
+      "x": 10.164859889329534,
+      "y": -32.95938993965386
+     },
+     "position_out": {
+      "x": -10.164859889329534,
+      "y": 32.95938993965386
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    },
+    {
+     "plane_id": 17,
+     "position": {
+      "x": -20.32971977865907,
+      "y": 65.91877987930772
+     },
+     "position_in": {
+      "x": -10.164859889329534,
+      "y": 32.95938993965386
+     },
+     "position_out": {
+      "x": -30.494579667988603,
+      "y": 98.87816981896158
+     },
+     "grid_translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+     },
+     "angle_with_plane": 0.0
+    }
+   ],
+   "is_cyclic": false,
+   "grid_type": {
+    "Square": {}
+   }
+  }
+ },
+ "external_3d_objects": {},
+ "clone_isometries": []
+}
